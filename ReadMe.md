@@ -1,0 +1,1 @@
+A General Data store for public data for static sites.
