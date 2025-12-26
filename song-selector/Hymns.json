@@ -7,7 +7,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "\u2019Tis finished! the Messiah dies",
-    "VideoLink": "https://www.emw.org.uk/2020/05/tis-finished-the-messiah-dies/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/tis-finished-the-messiah-dies/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/420745618/a2c0ed9584",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Tuesday-PM-4.mp3"
+    }
   },
   {
     "Number": 499,
@@ -143,7 +147,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "A sovereign Protector I have",
-    "VideoLink": "https://www.emw.org.uk/2020/05/a-sovereign-protector-i-have/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/a-sovereign-protector-i-have/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/418050680/ce698d3874",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Tuesday-AM-2.mp3"
+    }
   },
   {
     "Number": 906,
@@ -217,7 +225,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "All hail the power of Jesus\u2019 Name!",
-    "VideoLink": "https://www.emw.org.uk/2020/05/all-hail-the-power-of-jesus-name/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/all-hail-the-power-of-jesus-name/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/423217401/9372aa93b4",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Sunday-AM-1.mp3"
+    }
   },
   {
     "Number": 907,
@@ -242,7 +254,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "All I once held dear, built my life upon",
-    "VideoLink": "https://www.emw.org.uk/2020/06/all-i-once-held-dear/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/all-i-once-held-dear/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/427722630/834dfe57a0",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Thursday-PM-3-1.mp3"
+    }
   },
   {
     "Number": 144,
@@ -251,7 +267,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "All my days I will sing this song of gladness",
-    "VideoLink": "https://www.emw.org.uk/2020/06/all-my-days-i-will-sing-this-song-of-gladness/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/all-my-days-i-will-sing-this-song-of-gladness/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/423575971/7a9137bd7d",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Wednesday-AM-2.mp3"
+    }
   },
   {
     "Number": 194,
@@ -279,7 +299,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "All people that on earth do dwell",
-    "VideoLink": "https://www.emw.org.uk/2020/06/all-people-that-on-earth-do-dwell/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/all-people-that-on-earth-do-dwell/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/425126291/35ed3251d7",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/18-Track-18.mp3"
+    }
   },
   {
     "Number": 195,
@@ -378,7 +402,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Amazing grace! how sweet the sound",
-    "VideoLink": "https://www.emw.org.uk/2020/06/amazing-grace-traditional/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/amazing-grace-traditional/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/427418231/56ba09490f",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Monday-PM-3.mp3"
+    }
   },
   {
     "Number": 430,
@@ -412,7 +440,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "And can it be that I should gain",
-    "VideoLink": "https://www.emw.org.uk/2020/05/and-can-it-be/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/and-can-it-be/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/418188352/dc085dee5e",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/And-can-it-be-that-I-should-gain.mp3"
+    }
   },
   {
     "Number": 230,
@@ -470,7 +502,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Angels from the realms of glory",
-    "VideoLink": "https://www.emw.org.uk/2020/12/angels-from-the-realms-of-glory/",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/12/angels-from-the-realms-of-glory/",
+      "VideoSourceUrl": "https://vimeo.com/486535898",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/12/Angels-from-the-realms.mp3"
+    },
     "Tags": [
       "Christmas"
     ]
@@ -547,7 +583,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "As with gladness men of old",
-    "VideoLink": "https://www.emw.org.uk/2020/12/as-with-gladness/",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/12/as-with-gladness/",
+      "VideoSourceUrl": "https://vimeo.com/487439420",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/12/As-with-gladness.mp3"
+    },
     "Tags": [
       "Christmas"
     ]
@@ -592,7 +632,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "At the name of Jesus",
-    "VideoLink": "https://www.emw.org.uk/2020/06/at-the-name-of-jesus/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/at-the-name-of-jesus/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/427724043/b1c5c494ac",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Wednesday-AM-3-1.mp3"
+    }
   },
   {
     "Number": 143,
@@ -690,7 +734,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Be still, my soul: the Lord is on your side",
-    "VideoLink": "https://www.emw.org.uk/2020/05/be-still-my-soul/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/be-still-my-soul/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/420750480/09865d4cba",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Thursday-PM-4.mp3"
+    }
   },
   {
     "Number": 638,
@@ -717,7 +765,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Before the throne of God above",
-    "VideoLink": "https://www.emw.org.uk/2020/05/before-the-throne-of-god-above/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/before-the-throne-of-god-above/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/418054239/3c82678c45",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Tuesday-AM-1.mp3"
+    }
   },
   {
     "Number": 69,
@@ -944,7 +996,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Breathe on me, Breath of God",
-    "VideoLink": "https://www.emw.org.uk/2020/06/breathe-on-us-breath-of-god/",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/breathe-on-us-breath-of-god/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/425128838/e3ddc68224",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/05-Track-05.mp3"
+    },
     "Warning": {
       "Message": "Slight change in words, Me to changed to us.",
       "Level": 1
@@ -1131,7 +1187,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Christians, awake! salute the happy morn",
-    "VideoLink": "https://www.emw.org.uk/2020/12/christians-awake/",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/12/christians-awake/",
+      "VideoSourceUrl": "https://vimeo.com/487376656",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/12/Christians-Awake.mp3"
+    },
     "Tags": [
       "Christmas"
     ]
@@ -1167,7 +1227,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Come and see, come and see",
-    "VideoLink": "https://www.emw.org.uk/2020/06/come-and-see/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/come-and-see/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/423573140/f138053651",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Wednesday-PM-3-1.mp3"
+    }
   },
   {
     "Number": 326,
@@ -1424,7 +1488,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Come, Thou Fount of every blessing",
-    "VideoLink": "https://www.emw.org.uk/2020/05/come-though-font-of-every-blessing/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/come-though-font-of-every-blessing/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/418428107/0445029630",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Thursday-PM-3.mp3"
+    }
   },
   {
     "Number": 303,
@@ -1459,7 +1527,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Come, you saints, look here and wonder",
-    "VideoLink": "https://www.emw.org.uk/2020/06/come-you-saints-look-here-and-wonder/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/come-you-saints-look-here-and-wonder/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/426286696/3230148083",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Sunday-PM-2.mp3"
+    }
   },
   {
     "Number": 331,
@@ -1525,7 +1597,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Crown Him with many crowns",
-    "VideoLink": "https://www.emw.org.uk/2020/05/crown-him-with-many-crowns/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/crown-him-with-many-crowns/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/418448234/13739f0522",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Crown-Him-with-many-crowns.mp3"
+    }
   },
   {
     "Number": 315,
@@ -1622,7 +1698,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Facing a task unfinished",
-    "VideoLink": "https://www.emw.org.uk/2020/06/facing-a-task-unfinished/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/facing-a-task-unfinished/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/425837934/9f9a5ee2ce",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Friday-PM-4-1.mp3"
+    }
   },
   {
     "Number": 147,
@@ -2021,7 +2101,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Glory be to God the Father",
-    "VideoLink": "https://www.emw.org.uk/2020/06/glory-be-to-god-the-father/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/glory-be-to-god-the-father/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/427726839/8cf931f8a4",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Tuesday-AM-1.mp3"
+    }
   },
   {
     "Number": 237,
@@ -2276,7 +2360,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Great God of wonders! all Thy ways",
-    "VideoLink": "https://www.emw.org.uk/2020/06/great-god-of-wonders/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/great-god-of-wonders/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/425132616/74c18272a2",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/08-Track-08.mp3"
+    }
   },
   {
     "Number": 869,
@@ -2302,7 +2390,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Great is the gospel of our glorious God",
-    "VideoLink": "https://www.emw.org.uk/2020/06/great-is-the-gospel-of-our-glorious-god/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/great-is-the-gospel-of-our-glorious-god/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/425835024/2a18318d54",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Friday-PM-2.mp3"
+    }
   },
   {
     "Number": 106,
@@ -2311,7 +2403,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Great is Thy faithfulness",
-    "VideoLink": "https://www.emw.org.uk/2020/06/great-is-thy-faithfulness/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/great-is-thy-faithfulness/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/427061592/ea8962ab1e",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Thursday-AM-2.mp3"
+    }
   },
   {
     "Number": 323,
@@ -2336,7 +2432,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Great providence of heaven",
-    "VideoLink": "https://www.emw.org.uk/2020/06/great-providence-of-heaven/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/great-providence-of-heaven/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/427728125/b4719ab09e",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Wednesday-AM-1-1.mp3"
+    }
   },
   {
     "Number": 410,
@@ -2353,7 +2453,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Guide me, O Thou great Jehovah",
-    "VideoLink": "https://www.emw.org.uk/2020/06/guide-me-o-thou-great-jehovah/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/guide-me-o-thou-great-jehovah/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/427428246/388b815c6a",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Friday-AM-3-1.mp3"
+    }
   },
   {
     "Number": 288,
@@ -2379,7 +2483,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Hail, Thou once despis\u00E8d Jesus!",
-    "VideoLink": "https://www.emw.org.uk/2020/06/hail-thou-once-despised-jesus/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/hail-thou-once-despised-jesus/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/427730371/263c8b7351",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Sunday-AM-5-1.mp3"
+    }
   },
   {
     "Number": 917,
@@ -2452,7 +2560,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Hark! the herald angels sings",
-    "VideoLink": "https://www.emw.org.uk/2020/12/hark-the-herald-angels-sing/",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/12/hark-the-herald-angels-sing/",
+      "VideoSourceUrl": "https://vimeo.com/486963218",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/12/Hark-the-Herald.mp3"
+    },
     "Tags": [
       "Christmas"
     ]
@@ -2639,7 +2751,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Here is love, vast as the ocean",
-    "VideoLink": "https://www.emw.org.uk/2020/05/here-is-love/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/here-is-love/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/420751796/88cc10a28b",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Monday-PM-4.mp3"
+    }
   },
   {
     "Number": 438,
@@ -2760,7 +2876,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "How deep the Father\u2019s love for us",
-    "VideoLink": "https://www.emw.org.uk/2020/05/how-deep-the-fathers-love/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/how-deep-the-fathers-love/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/420988305/08366d40a7",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Monday-PM-2.mp3"
+    }
   },
   {
     "Number": 612,
@@ -2900,7 +3020,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "How sweet the name of Jesus sounds",
-    "VideoLink": "https://www.emw.org.uk/2020/05/how-sweet-the-name/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/how-sweet-the-name/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/420987348/832ec6c8e0",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Tuesday-PM-3.mp3"
+    }
   },
   {
     "Number": 222,
@@ -3000,7 +3124,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "I greet Thee who my sure Redeemer art",
-    "VideoLink": "https://www.emw.org.uk/2020/06/i-greet-thee-who-my-sure-redeemer-art/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/i-greet-thee-who-my-sure-redeemer-art/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/425542071/1ff6c961c6",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Friday-PM-3.mp3"
+    }
   },
   {
     "Number": 225,
@@ -3009,7 +3137,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "I have a friend whose faithful love",
-    "VideoLink": "https://www.emw.org.uk/2020/06/i-have-a-faithful-friend-whose-love/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/i-have-a-faithful-friend-whose-love/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/425544108/677ea5b3dd",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Thursday-PM-2.mp3"
+    }
   },
   {
     "Number": 702,
@@ -3034,7 +3166,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "I hear Thy welcome voice",
-    "VideoLink": "https://www.emw.org.uk/2020/05/i-hear-thy-welcome-voice/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/i-hear-thy-welcome-voice/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/418064090/701d65c9ae",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/I-hear-thy-welcome-voice.mp3"
+    }
   },
   {
     "Number": 579,
@@ -3191,7 +3327,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "I saw a new vision of Jesus",
-    "VideoLink": "https://www.emw.org.uk/2020/05/i-saw-a-new-vision-of-jesus/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/i-saw-a-new-vision-of-jesus/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/423159150/77de2838ed",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Friday-AM-3.mp3"
+    }
   },
   {
     "Number": 617,
@@ -3232,7 +3372,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "I stand amazed in the presence",
-    "VideoLink": "https://www.emw.org.uk/2020/05/i-stand-amazed/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/i-stand-amazed/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/418152345/2ad7afec8a",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Thursday-AM-1.mp3"
+    }
   },
   {
     "Number": 706,
@@ -3340,7 +3484,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Immortal honours rest on Jesus\u2019 head",
-    "VideoLink": "https://www.emw.org.uk/2020/05/immortal-honours-rest-on-jesus-head/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/immortal-honours-rest-on-jesus-head/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/423160966/dfa04b4bc7",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Sunday-PM-2.mp3"
+    }
   },
   {
     "Number": 16,
@@ -3350,7 +3498,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Immortal, invisible, God only wise",
-    "VideoLink": "https://www.emw.org.uk/2020/05/immortal-invisible-god-only-wise/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/immortal-invisible-god-only-wise/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/418052233/2db51b6ade",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Sunday-AM-1-1.mp3"
+    }
   },
   {
     "Number": 647,
@@ -3359,7 +3511,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "In Christ alone my hope is found",
-    "VideoLink": "https://www.emw.org.uk/2020/05/in-christ-alone/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/in-christ-alone/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/420747564/a440a29be2",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Tuesday-PM-1.mp3"
+    }
   },
   {
     "Number": 468,
@@ -3571,8 +3727,7 @@
       "Jesus is Lord"
     ],
     "Type": "EMW Christian Hymns",
-    "Title": "Jesus is Lord! Creation\u2019s voice proclaims it",
-    "VideoLink": "https://www.emw.org.uk/2020/05/jesus-is-lord-creation/"
+    "Title": "Jesus is Lord! Creation\u2019s voice proclaims it"
   },
   {
     "Number": 159,
@@ -3954,7 +4109,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Jesus! the Name high over all",
-    "VideoLink": "https://www.emw.org.uk/2020/05/jesus-the-name-high-over-all/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/jesus-the-name-high-over-all/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/421059724/6bd4b8d700",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Sunday-PM-1.mp3"
+    }
   },
   {
     "Number": 161,
@@ -3981,7 +4140,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Joy to the world! the Lord is come!",
-    "VideoLink": "https://www.emw.org.uk/2020/12/joy-to-the-world/",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/12/joy-to-the-world/",
+      "VideoSourceUrl": "https://vimeo.com/487358312",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/12/Joy-to-the-world-audio.mp3"
+    },
     "Tags": [
       "Christmas"
     ]
@@ -4171,7 +4334,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Long as I live I\u2019ll bless Your Name",
-    "VideoLink": "https://www.emw.org.uk/2020/06/long-as-i-live-ill-bless-your-name/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/long-as-i-live-ill-bless-your-name/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/427733550/cb7de51ae3",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Thursday-AM-1.mp3"
+    }
   },
   {
     "Number": 289,
@@ -4181,7 +4348,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Look, ye saints! the sight is glorious",
-    "VideoLink": "https://www.emw.org.uk/2020/06/look-ye-saints-the-sight-is-glorious/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/look-ye-saints-the-sight-is-glorious/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/426291221/b9c9e5b020",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Sunday-PM-4.mp3"
+    }
   },
   {
     "Number": 337,
@@ -4368,7 +4539,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Love divine, all loves excelling",
-    "VideoLink": "https://www.emw.org.uk/2020/05/love-divine-all-loves-excelling/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/love-divine-all-loves-excelling/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/418455150/5a93115fa0",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Love-divine-all-loves-excelling.mp3"
+    }
   },
   {
     "Number": 689,
@@ -4522,7 +4697,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "My God, how wonderful Thou art",
-    "VideoLink": "https://www.emw.org.uk/2020/06/my-god-how-wonderful-thou-art/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/my-god-how-wonderful-thou-art/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/425836183/8d33491be2",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Thursday-PM-1.mp3"
+    }
   },
   {
     "Number": 690,
@@ -4597,7 +4776,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "My hope is built on nothing less",
-    "VideoLink": "https://www.emw.org.uk/2020/06/my-hope-is-built-on-nothing-less/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/my-hope-is-built-on-nothing-less/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/428427372/8a843c02b7",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Tuesday-PM-1.mp3"
+    }
   },
   {
     "Number": 130,
@@ -4615,7 +4798,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "My Jesus, I love Thee, I know Thou art mine",
-    "VideoLink": "https://www.emw.org.uk/2020/05/my-jesus-i-love-thee/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/my-jesus-i-love-thee/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/421061668/0ce0a5765c",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Friday-PM-4.mp3"
+    }
   },
   {
     "Number": 251,
@@ -4715,7 +4902,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Nearer, still nearer, close to Thy heart",
-    "VideoLink": "https://www.emw.org.uk/2020/05/nearer-still-nearer/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/nearer-still-nearer/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/420757637/f02dbadb44",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Nearer-Still-Nearer-Close-to-Thy-heart.mp3"
+    }
   },
   {
     "Number": 249,
@@ -4895,7 +5086,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "O Breath of Life, come sweeping through us",
-    "VideoLink": "https://www.emw.org.uk/2020/05/o-breath-of-life-come-sweeping-through-us/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/o-breath-of-life-come-sweeping-through-us/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/423223087/a52f430e96",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Tuesday-AM-3.mp3"
+    }
   },
   {
     "Number": 524,
@@ -4929,7 +5124,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "O come, all ye faithful",
-    "VideoLink": "https://www.emw.org.uk/2020/12/o-come-all-ye-faithful/",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/12/o-come-all-ye-faithful/",
+      "VideoSourceUrl": "https://vimeo.com/486547289",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/12/O-come-all-ye-faithful.mp3"
+    },
     "Tags": [
       "Christmas"
     ]
@@ -4949,7 +5148,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "O come, O come, Immanuel",
-    "VideoLink": "https://www.emw.org.uk/2020/12/o-come-o-come-emmanuel/",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/12/o-come-o-come-emmanuel/",
+      "VideoSourceUrl": "https://vimeo.com/486982895",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/12/O-Come-O-come-Emmanuel.mp3"
+    },
     "Tags": [
       "Christmas"
     ]
@@ -4969,7 +5172,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "O Father, You are sovereign",
-    "VideoLink": "https://www.emw.org.uk/2020/06/o-father-you-are-sovereign/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/o-father-you-are-sovereign/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/427735466/6ef806c378",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Monday-PM-2.mp3"
+    }
   },
   {
     "Number": 846,
@@ -4996,7 +5203,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "O for a thousand tongues to sing",
-    "VideoLink": "https://www.emw.org.uk/2020/06/o-for-a-thousand-tongues-to-sing/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/o-for-a-thousand-tongues-to-sing/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/425547444/445dfc2d50",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Friday-PM-1.mp3"
+    }
   },
   {
     "Number": 23,
@@ -5156,7 +5367,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "O little town of Bethlehem",
-    "VideoLink": "https://www.emw.org.uk/2020/12/o-little-town-of-bethlehem/",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/12/o-little-town-of-bethlehem/",
+      "VideoSourceUrl": "https://vimeo.com/486940069",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/12/O-little-town-of-Bethlehem.mp3"
+    },
     "Tags": [
       "Christmas"
     ]
@@ -5168,7 +5383,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "O Lord my God, I stand and gaze in wonder",
-    "VideoLink": "https://www.emw.org.uk/2020/05/how-great-thou-art/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/how-great-thou-art/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/421138484/2e7b7f9c08",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Wednesday-AM-1.mp3"
+    }
   },
   {
     "Number": 878,
@@ -5268,7 +5487,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "O Love, that wilt not let me go",
-    "VideoLink": "https://www.emw.org.uk/2020/05/o-love-that-will-not-let-me-go/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/o-love-that-will-not-let-me-go/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/420761316/69ed42df02",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Monday-PM-3.mp3"
+    }
   },
   {
     "Number": 591,
@@ -5392,7 +5615,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "O the deep, deep love of Jesus!",
-    "VideoLink": "https://www.emw.org.uk/2020/05/o-the-deep-deep-love-of-jesus/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/o-the-deep-deep-love-of-jesus/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/420990363/2078f41706",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/O-the-deep-deep-love-of-Jesus.mp3"
+    }
   },
   {
     "Number": 418,
@@ -5552,7 +5779,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Once in royal David\u2019s city",
-    "VideoLink": "https://www.emw.org.uk/2020/12/once-in-royal-davids-city/",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/12/once-in-royal-davids-city/",
+      "VideoSourceUrl": "https://vimeo.com/487432161",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/12/Once-in-royal-Davids-city.mp3"
+    },
     "Tags": [
       "Christmas"
     ]
@@ -5597,7 +5828,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Onward march, all-conquering Jesus",
-    "VideoLink": "https://www.emw.org.uk/2020/05/onward-march-all-conquering-jesus/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/onward-march-all-conquering-jesus/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/421068720/8fca730aac",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Wednesday-PM-4.mp3"
+    }
   },
   {
     "Number": 761,
@@ -5744,7 +5979,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Praise God, from whom all blessings flow",
-    "VideoLink": "https://www.emw.org.uk/2020/06/doxology-praise-god-from-whom-all-blessings-flow/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/doxology-praise-god-from-whom-all-blessings-flow/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/426980477/3dfcd0c662",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Friday-PM-4.5.mp3"
+    }
   },
   {
     "Number": 900,
@@ -5827,7 +6066,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Praise, my soul, the King of heaven",
-    "VideoLink": "https://www.emw.org.uk/2020/06/praise-my-soul-the-king-of-heaven/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/praise-my-soul-the-king-of-heaven/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/423580291/caaa945a8a",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Monday-PM-1.mp3"
+    }
   },
   {
     "Number": 879,
@@ -5928,7 +6171,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Rock of Ages, cleft for me",
-    "VideoLink": "https://www.emw.org.uk/2020/05/rock-of-ages/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/rock-of-ages/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/421144363/7f7e30a20d",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Thursday-AM-3.mp3"
+    }
   },
   {
     "Number": 32,
@@ -6002,7 +6249,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "See He lies there in the manger",
-    "VideoLink": "https://www.emw.org.uk/2020/12/see-he-lies-there-in-the-manger/",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/12/see-he-lies-there-in-the-manger/",
+      "VideoSourceUrl": "https://vimeo.com/492236404",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/12/See-He-lies-there-in-the-manger-NCH-214-\u2018Suo-Ga\u0302n.mp3"
+    },
     "Tags": [
       "Christmas"
     ]
@@ -6079,7 +6330,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Silent night! holy night!",
-    "VideoLink": "https://www.emw.org.uk/2020/12/silent-night/",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/12/silent-night/",
+      "VideoSourceUrl": "https://vimeo.com/487381264",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/12/Silent-Night.mp3"
+    },
     "Tags": [
       "Christmas"
     ]
@@ -6182,7 +6437,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Sovereign grace o\u2019er sin abounding",
-    "VideoLink": "https://www.emw.org.uk/2020/06/sovereign-grace-oer-sin-abounding/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/sovereign-grace-oer-sin-abounding/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/425838241/3b2d093aa3",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Sunday-AM-5.mp3"
+    }
   },
   {
     "Number": 626,
@@ -6352,7 +6611,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Tell out, my soul, the greatness of the Lord!",
-    "VideoLink": "https://www.emw.org.uk/2020/06/tell-out-my-soul/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/tell-out-my-soul/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/429542077/fee57ac8a8",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Sunday-AM-1.mp3"
+    }
   },
   {
     "Number": 321,
@@ -6369,7 +6632,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "The battle is the Lord\u2019s!",
-    "VideoLink": "https://www.emw.org.uk/2020/06/the-battle-is-the-lords/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/the-battle-is-the-lords/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/426993516/fa3386117c",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Sunday-PM-5.mp3"
+    }
   },
   {
     "Number": 564,
@@ -6386,7 +6653,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "The church\u2019s one foundation",
-    "VideoLink": "https://www.emw.org.uk/2020/06/the-churchs-one-foundation/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/the-churchs-one-foundation/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/427425295/f502d88a73",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Wednesday-PM-3.mp3"
+    }
   },
   {
     "Number": 79,
@@ -6510,7 +6781,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "The Lord is King; lift up your voice",
-    "VideoLink": "https://www.emw.org.uk/2020/05/the-lord-is-king-lift-up-your-voice/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/the-lord-is-king-lift-up-your-voice/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/423226635/b6f2d1e41b",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Tuesday-AM-1-1.mp3"
+    }
   },
   {
     "Number": 628,
@@ -6586,7 +6861,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "The sands of time are sinking",
-    "VideoLink": "https://www.emw.org.uk/2020/05/the-sands-of-time-are-sinking/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/the-sands-of-time-are-sinking/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/423229759/f9db92276e",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Tuesday-PM-4-1.mp3"
+    }
   },
   {
     "Number": 560,
@@ -6669,7 +6948,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "There is a fountain filled with blood",
-    "VideoLink": "https://www.emw.org.uk/2020/05/there-is-a-fountain/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/there-is-a-fountain/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/418055224/064fbce4ad",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Thereisafountsong.mp3"
+    }
   },
   {
     "Number": 261,
@@ -6775,7 +7058,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Thine be the glory, risen, conquering Son",
-    "VideoLink": "https://www.emw.org.uk/2020/06/thine-be-the-glory/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/thine-be-the-glory/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/423581563/ca184792f5",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Wednesday-AM-3.mp3"
+    }
   },
   {
     "Number": 937,
@@ -6979,7 +7266,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "To God be the glory! great things He has done!",
-    "VideoLink": "https://www.emw.org.uk/2020/06/to-god-be-the-glory/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/to-god-be-the-glory/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/427435590/e6a037ce98",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/11-Track-11.mp3"
+    }
   },
   {
     "Number": 88,
@@ -7200,7 +7491,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "We rest on Thee, our Shield and our Defender!",
-    "VideoLink": "https://www.emw.org.uk/2020/06/we-rest-on-thee/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/we-rest-on-thee/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/425841917/4a866b9106",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Friday-PM-3-1.mp3"
+    }
   },
   {
     "Number": 262,
@@ -7309,7 +7604,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "When I survey the wondrous cross",
-    "VideoLink": "https://www.emw.org.uk/2020/05/when-i-survey/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/when-i-survey/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/420989243/cf6e229282",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Sunday-PM-4.mp3"
+    }
   },
   {
     "Number": 404,
@@ -7358,7 +7657,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "When peace, like a river, attendeth my way",
-    "VideoLink": "https://www.emw.org.uk/2020/05/when-peace-like-a-river/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/when-peace-like-a-river/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/421147405/a23aa67f58",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/When-Peace-like-a-River.mp3"
+    }
   },
   {
     "Number": 627,
@@ -7383,7 +7686,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "When this passing world is done",
-    "VideoLink": "https://www.emw.org.uk/2020/06/when-this-passing-world-is-done/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/when-this-passing-world-is-done/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/427737069/0a3f7b918a",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Thursday-AM-3.mp3"
+    }
   },
   {
     "Number": 794,
@@ -7416,7 +7723,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "While shepherds watched their flocks by night",
-    "VideoLink": "https://www.emw.org.uk/2020/12/while-shepherds-watched/",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/12/while-shepherds-watched/",
+      "VideoSourceUrl": "https://vimeo.com/486947118",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/12/While-shepherds-watched.mp3"
+    },
     "Tags": [
       "Christmas"
     ]
@@ -7436,7 +7747,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Who can cheer the heart like Jesus",
-    "VideoLink": "https://www.emw.org.uk/2020/06/who-can-cheer-the-heart-like-jesus/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/who-can-cheer-the-heart-like-jesus/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/427739013/9406b98163",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Thursday-AM-2-2.mp3"
+    }
   },
   {
     "Number": 226,
@@ -7445,7 +7760,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Who is He in yonder stall",
-    "VideoLink": "https://www.emw.org.uk/2020/06/who-is-he-in-yonder-stall/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/who-is-he-in-yonder-stall/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/426998803/7c234885a8",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Thursday-PM-4.mp3"
+    }
   },
   {
     "Number": 765,
@@ -7700,7 +8019,11 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "You\u2019re the Word of God the Father",
-    "VideoLink": "https://www.emw.org.uk/2020/05/youre-the-word-of-god/"
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/youre-the-word-of-god/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/418027026/868d80277a",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Youretheword.mp3"
+    }
   },
   {
     "Number": 811,
@@ -7712,256 +8035,426 @@
     "Title": "Your promise, Lord, is perfect peace"
   },
   {
-    "Type": "EMWHymn",
+    "Type": "General",
     "Title": "Amazing Grace (My Chains are gone)",
-    "VideoLink": "https://www.emw.org.uk/2020/06/amazing-grace-my-chains-are-gone/"
-  },
-  {
-    "Type": "EMWHymn",
-    "Title": "Away in a manger",
-    "VideoLink": "https://www.emw.org.uk/2020/12/away-in-a-manger/",
-    "Tags": [
-      "Christmas"
-    ]
-  },
-  {
-    "Type": "EMWHymn",
-    "Title": "Behold our God",
-    "VideoLink": "https://www.emw.org.uk/2020/06/behold-our-god-who-has-held-the-oceans-in-his-hands/"
-  },
-  {
-    "Type": "EMWHymn",
-    "Title": "Bless the Lord",
-    "VideoLink": "https://www.emw.org.uk/2020/05/bless-the-lord/"
-  },
-  {
-    "Type": "EMWHymn",
-    "Title": "Blessed Assurance",
-    "VideoLink": "https://www.emw.org.uk/2020/06/blessed-assurance/"
-  },
-  {
-    "Type": "EMWHymn",
-    "Title": "Blessed be your name",
-    "VideoLink": "https://www.emw.org.uk/2020/06/blessed-be-your-name/"
-  },
-  {
-    "Type": "EMWHymn",
-    "Title": "Breathe on us breath of God",
-    "VideoLink": "https://www.emw.org.uk/2020/06/breathe-on-us-breath-of-god/"
-  },
-  {
-    "Type": "EMWHymn",
-    "Title": "By Faith",
-    "VideoLink": "https://www.emw.org.uk/2020/05/by-faith-we-see-the-hand-of-god/"
-  },
-  {
-    "Type": "EMWHymn",
-    "Title": "Child in a manger",
-    "VideoLink": "https://www.emw.org.uk/2020/12/child-in-a-manger/",
-    "Tags": [
-      "Christmas"
-    ]
-  },
-  {
-    "Type": "EMWHymn",
-    "Title": "Come and join the celebration",
-    "VideoLink": "https://www.emw.org.uk/2020/12/come-and-join-the-celebration/",
-    "Tags": [
-      "Christmas"
-    ]
-  },
-  {
-    "Type": "EMWHymn",
-    "Title": "Come people of the risen King",
-    "VideoLink": "https://www.emw.org.uk/2020/06/come-people-of-the-risen-king/"
-  },
-  {
-    "Type": "EMWHymn",
-    "Title": "God sent His Son",
-    "VideoLink": "https://www.emw.org.uk/2020/06/god-sent-his-son-because-he-lives/"
-  },
-  {
-    "Type": "EMWHymn",
-    "Title": "He will hold me fast",
-    "VideoLink": "https://www.emw.org.uk/2020/05/he-will-hold-me-fast/"
-  },
-  {
-    "Type": "EMWHymn",
-    "Title": "His Mercy is More",
-    "VideoLink": "https://www.emw.org.uk/2020/05/his-mercy-is-more/",
-    "Warning":{
-      "Level":2,
-      "Message":"Dodgy start to the second verse of the hymn."
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/amazing-grace-my-chains-are-gone/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/420742979/7afb0f93d5",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Thursday-PM-1-1.mp3"
     }
   },
   {
-    "Type": "EMWHymn",
-    "Title": "I will Glory in my redeemer",
-    "VideoLink": "https://www.emw.org.uk/2020/06/i-will-glory-in-my-redeemer/"
-  },
-  {
-    "Type": "EMWHymn",
-    "Title": "Jesus is Lord",
-    "VideoLink": "https://www.emw.org.uk/2020/06/jesus-is-lord-the-cry-that-echoes/"
-  },
-  {
-    "Type": "EMWHymn",
-    "Title": "Jesus paid it all",
-    "VideoLink": "https://www.emw.org.uk/2020/05/jesus-paid-it-all/"
-  },
-  {
-    "Type": "EMWHymn",
-    "Title": "Joy has dawned",
-    "VideoLink": "https://www.emw.org.uk/2020/12/joy-has-dawned/",
+    "Type": "General",
+    "Title": "Away in a manger",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/12/away-in-a-manger/",
+      "VideoSourceUrl": "https://vimeo.com/486991744",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/12/Away-in-a-manger.mp3"
+    },
     "Tags": [
       "Christmas"
     ]
   },
   {
-    "Type": "EMWHymn",
-    "Title": "King of Kings",
-    "VideoLink": "https://www.emw.org.uk/2020/06/king-of-kings/"
+    "Type": "General",
+    "Title": "Behold our God",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/behold-our-god-who-has-held-the-oceans-in-his-hands/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/425127670/a46758d45f",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/14-Track-14.mp3"
+    }
   },
   {
-    "Type": "EMWHymn",
-    "Title": "Light of the world",
-    "VideoLink": "https://www.emw.org.uk/2020/05/light-of-the-world/"
+    "Type": "General",
+    "Title": "Bless the Lord",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/bless-the-lord/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/418368739/09b1bb4f18",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Monday-PM-1.mp3"
+    }
   },
   {
-    "Type": "EMWHymn",
-    "Title": "Look to the skies",
-    "VideoLink": "https://www.emw.org.uk/2020/12/look-to-the-skies/",
+    "Type": "General",
+    "Title": "Blessed Assurance",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/blessed-assurance/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/427725853/d4f2265840",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Monday-PM-1-1.mp3"
+    }
+  },
+  {
+    "Type": "General",
+    "Title": "Blessed be your name",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/blessed-be-your-name/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/425538020/e9d964d5b6",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Friday-AM-3.mp3"
+    }
+  },
+  {
+    "Type": "General",
+    "Title": "Breathe on us breath of God"
+  },
+  {
+    "Type": "General",
+    "Title": "By Faith",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/by-faith-we-see-the-hand-of-god/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/418429014/37a8d21bb0",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Thursday-AM-4.mp3"
+    }
+  },
+  {
+    "Type": "General",
+    "Title": "Child in a manger",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/12/child-in-a-manger/",
+      "VideoSourceUrl": "https://vimeo.com/486556454",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/12/Child-in-a-manger.mp3"
+    },
     "Tags": [
       "Christmas"
     ]
   },
   {
-    "Type": "EMWHymn",
-    "Title": "Mighty Christ from time eternal",
-    "VideoLink": "https://www.emw.org.uk/2020/05/mighty-christ-from-time-eternal/"
-  },
-  {
-    "Type": "EMWHymn",
-    "Title": "My heart is filled with thankfulness",
-    "VideoLink": "https://www.emw.org.uk/2020/05/my-heart-is-filled-with-thankfulness/"
-  },
-  {
-    "Type": "EMWHymn",
-    "Title": "My hope is built on nothing less (Connerstone)",
-    "VideoLink": "https://www.emw.org.uk/2020/06/my-hope-is-built-on-nothing-less-cornerstone/"
-  },
-  {
-    "Type": "EMWHymn",
-    "Title": "Nothing but the blood of Jesus",
-    "VideoLink": "https://www.emw.org.uk/2020/06/nothing-but-the-blood-of-jesus/"
-  },
-  {
-    "Type": "EMWHymn",
-    "Title": "O Church arise",
-    "VideoLink": "https://www.emw.org.uk/2020/06/o-church-arise/"
-  },
-  {
-    "Type": "EMWHymn",
-    "Title": "O Holy night",
-    "VideoLink": "https://www.emw.org.uk/2020/12/o-holy-night/",
+    "Type": "General",
+    "Title": "Come and join the celebration",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/12/come-and-join-the-celebration/",
+      "VideoSourceUrl": "https://vimeo.com/487399687",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/12/Come-and-join-the-celebration.mp3"
+    },
     "Tags": [
       "Christmas"
     ]
   },
   {
-    "Type": "EMWHymn",
-    "Title": "O Lord my Rock and my Redeemer",
-    "VideoLink": "https://www.emw.org.uk/2020/05/o-lord-my-rock-and-my-redeemer/"
-  },
-  {
-    "Type": "EMWHymn",
-    "Title": "O Praise the name",
-    "VideoLink": "https://www.emw.org.uk/2020/06/o-praise-the-name-i-cast-my-mind-to-calvary/"
-  },
-  {
-    "Type": "EMWHymn",
-    "Title": "O what a mystery",
-    "VideoLink": "https://www.emw.org.uk/2020/12/o-what-a-mystery/",
-    "Tags": [
-      "Christmas"
-    ]
-  },
-  {
-    "Type": "EMWHymn",
-    "Title": "Oh to see the Dawn",
-    "VideoLink": "https://www.emw.org.uk/2020/06/oh-to-see-the-dawn/"
-  },
-  {
-    "Type": "EMWHymn",
-    "Title": "One day",
-    "VideoLink": "https://www.emw.org.uk/2020/06/one-day-when-we-all-get-to-heaven/"
-  },
-  {
-    "Type": "EMWHymn",
-    "Title": "Only a Holy God",
-    "VideoLink": "https://www.emw.org.uk/2020/06/only-a-holy-god/"
-  },
-  {
-    "Type": "EMWHymn",
-    "Title": "See what a morning",
-    "VideoLink": "https://www.emw.org.uk/2020/06/see-what-a-morning/"
-  },
-  {
-    "Type": "EMWHymn",
-    "Title": "Speak O Lord",
-    "VideoLink": "https://www.emw.org.uk/2020/05/speak-o-lord/"
-  },
-  {
-    "Type": "EMWHymn",
-    "Title": "Tell me the old old story",
-    "VideoLink": "https://www.emw.org.uk/2020/06/tell-me-the-old-old-story/"
-  },
-  {
-    "Type": "EMWHymn",
-    "Title": "The First Noel",
-    "VideoLink": "https://www.emw.org.uk/2020/12/the-first-noel/",
-    "Tags": [
-      "Christmas"
-    ]
-  },
-  {
-    "Type": "EMWHymn",
-    "Title": "The Splendour of the King",
-    "VideoLink": "https://www.emw.org.uk/2020/06/the-splendour-of-the-king/"
-  },
-  {
-    "Type": "EMWHymn",
-    "Title": "There is a higher throne",
-    "VideoLink": "https://www.emw.org.uk/2020/05/there-is-a-higher-throne/"
-  },
-  {
-    "Type": "EMWHymn",
-    "Title": "There is a hope that burns within my heart",
-    "VideoLink": "https://www.emw.org.uk/2020/06/there-is-a-hope-that-burns-within-my-heart/"
-  },
-  {
-    "Type": "EMWHymn",
-    "Title": "What a faithful God",
-    "VideoLink": "https://www.emw.org.uk/2020/06/what-a-faithful-god/"
-  },
-  {
-    "Type": "EMWHymn",
-    "Title": "Worthy O Lamb of God",
-    "VideoLink": "https://www.emw.org.uk/2020/05/worthy-o-lamb-of-god/"
-  },
-  {
-    "Type": "EMWHymn",
-    "Title": "Yet not I",
-    "VideoLink": "https://www.emw.org.uk/2020/06/yet-not-i/"
-  },
-  {
-    "Type": "EMWHymn",
-    "Title": "You alone can rescue",
-    "VideoLink": "https://www.emw.org.uk/2020/06/you-alone-can-rescue/"
+    "Type": "General",
+    "Title": "Come people of the risen King",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/come-people-of-the-risen-king/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/423577320/4dfba80c4a",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Wednesday-AM-1.mp3"
+    }
   },
   {
     "Type": "YoutubeHymn",
-    "Title": "Dear Refuge of my weary soul",
-    "VideoLink": "https://www.youtube.com/watch?v=qaMb57Wi9Ok"
+    "Title": "Dear Refuge of my weary soul"
+  },
+  {
+    "Type": "General",
+    "Title": "God sent His Son",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/god-sent-his-son-because-he-lives/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/423219963/ab37dd243e",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Sunday-PM-3.mp3"
+    }
+  },
+  {
+    "Type": "General",
+    "Title": "He will hold me fast",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/he-will-hold-me-fast/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/418065387/f0223cf0a8",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/He-will-hold-me-fast.mp3"
+    }
+  },
+  {
+    "Type": "General",
+    "Title": "His Mercy is More",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/his-mercy-is-more/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/420755665/6189ee80a0",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Thursday-PM-2.mp3"
+    },
+    "Warning": {
+      "Message": "Dodgy start to the second verse of the hymn.",
+      "Level": 2
+    }
+  },
+  {
+    "Type": "General",
+    "Title": "I will Glory in my redeemer",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/i-will-glory-in-my-redeemer/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/423233613/bab8856362",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Sunday-AM-3.mp3"
+    }
+  },
+  {
+    "Type": "General",
+    "Title": "Jesus is Lord",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/jesus-is-lord-the-cry-that-echoes/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/427731804/cb266651dc",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Friday-AM-2.mp3"
+    }
+  },
+  {
+    "Type": "General",
+    "Title": "Jesus paid it all",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/jesus-paid-it-all/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/418462329/4c7123576e",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Jesus-Paid-it-all.mp3"
+    }
+  },
+  {
+    "Type": "General",
+    "Title": "Joy has dawned",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/12/joy-has-dawned/",
+      "VideoSourceUrl": "https://vimeo.com/487386418",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/12/Joy-has-dawned.mp3"
+    },
+    "Tags": [
+      "Christmas"
+    ]
+  },
+  {
+    "Type": "General",
+    "Title": "King of Kings",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/king-of-kings/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/426288229/24f0de3f0f",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Wednesday-PM-2.mp3"
+    }
+  },
+  {
+    "Type": "General",
+    "Title": "Light of the world",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/light-of-the-world/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/418059783/9fdc88880d",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Lightsong.mp3"
+    }
+  },
+  {
+    "Type": "General",
+    "Title": "Look to the skies",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/12/look-to-the-skies/",
+      "VideoSourceUrl": "https://vimeo.com/487407792",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/12/Look-to-the-skies.mp3"
+    },
+    "Tags": [
+      "Christmas"
+    ]
+  },
+  {
+    "Type": "General",
+    "Title": "Mighty Christ from time eternal",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/mighty-christ-from-time-eternal/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/423235394/f95d255625",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Sunday-AM-2.mp3"
+    }
+  },
+  {
+    "Type": "General",
+    "Title": "My heart is filled with thankfulness",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/my-heart-is-filled-with-thankfulness/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/421140543/f73c0b3f6e",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Me-heart-is-fi-song.mp3"
+    }
+  },
+  {
+    "Type": "General",
+    "Title": "My hope is built on nothing less (Connerstone)",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/my-hope-is-built-on-nothing-less-cornerstone/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/425130453/0174d10a99",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/12-Track-12.mp3"
+    }
+  },
+  {
+    "Type": "General",
+    "Title": "Nothing but the blood of Jesus",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/nothing-but-the-blood-of-jesus/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/427742133/32b5cf9254",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Thursday-PM-2-2.mp3"
+    }
+  },
+  {
+    "Type": "General",
+    "Title": "O Church arise",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/o-church-arise/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/425134332/0a899a03d3",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/06-Track-06.mp3"
+    }
+  },
+  {
+    "Type": "General",
+    "Title": "O Holy night",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/12/o-holy-night/",
+      "VideoSourceUrl": "https://vimeo.com/486586702",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/12/O-Holy-Night.mp3"
+    },
+    "Tags": [
+      "Christmas"
+    ]
+  },
+  {
+    "Type": "General",
+    "Title": "O Lord my Rock and my Redeemer",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/o-lord-my-rock-and-my-redeemer/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/421142882/519592a57f",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Friday-PM-2.mp3"
+    }
+  },
+  {
+    "Type": "General",
+    "Title": "O Praise the name",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/o-praise-the-name-i-cast-my-mind-to-calvary/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/423574710/0af7931a09",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Wednesday-PM-1.mp3"
+    }
+  },
+  {
+    "Type": "General",
+    "Title": "O what a mystery",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/12/o-what-a-mystery/",
+      "VideoSourceUrl": "https://vimeo.com/487421304",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/12/O-what-a-mystery.mp3"
+    },
+    "Tags": [
+      "Christmas"
+    ]
+  },
+  {
+    "Type": "General",
+    "Title": "Oh to see the Dawn",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/oh-to-see-the-dawn/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/428427143/71a34a3e00",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Thursday-AM-4.mp3"
+    }
+  },
+  {
+    "Type": "General",
+    "Title": "One day",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/one-day-when-we-all-get-to-heaven/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/423578934/196e411ba5",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Tuesday-PM-3.mp3"
+    }
+  },
+  {
+    "Type": "General",
+    "Title": "Only a Holy God",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/only-a-holy-god/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/421069182/f9a12bef1b",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Thursday-AM-2-1.mp3"
+    }
+  },
+  {
+    "Type": "General",
+    "Title": "See what a morning",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/see-what-a-morning/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/425548215/030dab2baa",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Friday-PM-4.mp3"
+    }
+  },
+  {
+    "Type": "General",
+    "Title": "Speak O Lord",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/speak-o-lord/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/423225008/e137948fda",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Tuesday-AM-2-1.mp3"
+    }
+  },
+  {
+    "Type": "General",
+    "Title": "Tell me the old old story",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/tell-me-the-old-old-story/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/425569700/3b45da22da",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Thursday-PM-3.mp3"
+    }
+  },
+  {
+    "Type": "General",
+    "Title": "The First Noel",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/12/the-first-noel/",
+      "VideoSourceUrl": "https://vimeo.com/487395094",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/12/The-first-Noel-1.mp3"
+    },
+    "Tags": [
+      "Christmas"
+    ]
+  },
+  {
+    "Type": "General",
+    "Title": "The Splendour of the King",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/the-splendour-of-the-king/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/425840339/b8c3617724",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Friday-PM-1-1.mp3"
+    }
+  },
+  {
+    "Type": "General",
+    "Title": "There is a higher throne",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/there-is-a-higher-throne/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/418055224/064fbce4ad",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Wednesday-PM-2.mp3"
+    }
+  },
+  {
+    "Type": "General",
+    "Title": "There is a hope that burns within my heart",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/there-is-a-hope-that-burns-within-my-heart/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/426299069/882ebaa11d",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Thursday-PM-2-1.mp3"
+    }
+  },
+  {
+    "Type": "General",
+    "Title": "What a faithful God",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/what-a-faithful-god/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/425552975/2fa02ab510",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Friday-AM-1.mp3"
+    }
+  },
+  {
+    "Type": "General",
+    "Title": "Worthy O Lamb of God",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/05/worthy-o-lamb-of-god/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/421149904/e7ffe6dcd0",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Wednesday-PM-3.mp3"
+    }
+  },
+  {
+    "Type": "General",
+    "Title": "Yet not I",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/yet-not-i/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/420991644/b685a557ff",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Tuesday-PM-2.mp3"
+    }
+  },
+  {
+    "Type": "General",
+    "Title": "You alone can rescue",
+    "HymnMedia": {
+      "MediaSourceUrl": "https://www.emw.org.uk/2020/06/you-alone-can-rescue/",
+      "VideoSourceUrl": "https://vimeo.com/emw/download/425139795/8fb8395958",
+      "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/09-Track-09.mp3"
+    }
   }
 ]
