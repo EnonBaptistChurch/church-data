@@ -216,7 +216,8 @@
       "(ii) Miles Lane"
     ],
     "Type": "EMW Christian Hymns",
-    "Title": "All hail the power of Jesus\u2019 Name!"
+    "Title": "All hail the power of Jesus\u2019 Name!",
+    "VideoLink": "https://www.emw.org.uk/2020/05/all-hail-the-power-of-jesus-name/"
   },
   {
     "Number": 907,
@@ -5700,7 +5701,8 @@
       "Tallis\u2019 Canon"
     ],
     "Type": "EMW Christian Hymns",
-    "Title": "Praise God, from whom all blessings flow"
+    "Title": "Praise God, from whom all blessings flow",
+    "VideoLink": "https://www.emw.org.uk/2020/06/doxology-praise-god-from-whom-all-blessings-flow/"
   },
   {
     "Number": 900,
@@ -7657,11 +7659,6 @@
   },
   {
     "Type": "EMWHymn",
-    "Title": "All hail the power of Jesus\u0026#8217; Name",
-    "VideoLink": "https://www.emw.org.uk/2020/05/all-hail-the-power-of-jesus-name/"
-  },
-  {
-    "Type": "EMWHymn",
     "Title": "Amazing Grace (My Chains are gone)",
     "VideoLink": "https://www.emw.org.uk/2020/06/amazing-grace-my-chains-are-gone/"
   },
@@ -7702,11 +7699,6 @@
   },
   {
     "Type": "EMWHymn",
-    "Title": "Doxology \u0026#8211; Praise God from whom all blessings flow",
-    "VideoLink": "https://www.emw.org.uk/2020/06/doxology-praise-god-from-whom-all-blessings-flow/"
-  },
-  {
-    "Type": "EMWHymn",
     "Title": "God sent His Son",
     "VideoLink": "https://www.emw.org.uk/2020/06/god-sent-his-son-because-he-lives/"
   },
@@ -7723,7 +7715,11 @@
   {
     "Type": "EMWHymn",
     "Title": "His Mercy is More",
-    "VideoLink": "https://www.emw.org.uk/2020/05/his-mercy-is-more/"
+    "VideoLink": "https://www.emw.org.uk/2020/05/his-mercy-is-more/",
+    "Warning":{
+      "Level": 2,
+      "Message": "A dodgy start in the second verse."
+    }
   },
   {
     "Type": "EMWHymn",
@@ -7762,7 +7758,7 @@
   },
   {
     "Type": "EMWHymn",
-    "Title": "My hope is built on nothing less",
+    "Title": "My hope is built on nothing less (Connerstone)",
     "VideoLink": "https://www.emw.org.uk/2020/06/my-hope-is-built-on-nothing-less-cornerstone/"
   },
   {
@@ -7814,11 +7810,6 @@
     "Type": "EMWHymn",
     "Title": "Tell me the old old story",
     "VideoLink": "https://www.emw.org.uk/2020/06/tell-me-the-old-old-story/"
-  },
-  {
-    "Type": "EMWHymn",
-    "Title": "The church\u0026#8217;s one foundation",
-    "VideoLink": "https://www.emw.org.uk/2020/06/the-churchs-one-foundation/"
   },
   {
     "Type": "EMWHymn",
