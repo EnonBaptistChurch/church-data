@@ -7845,5 +7845,10 @@
     "Type": "EMWHymn",
     "Title": "You alone can rescue",
     "VideoLink": "https://www.emw.org.uk/2020/06/you-alone-can-rescue/"
+  },
+  {
+    "Type": "YoutubeHymn",
+    "Title": "Dear Refuge of my weary soul",
+    "VideoLink": "https://www.youtube.com/watch?v=qaMb57Wi9Ok"
   }
 ]
