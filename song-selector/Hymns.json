@@ -1,306 +1,5 @@
 [
   {
-    "Number": 606,
-    "Tunes": [
-      "Cleveland",
-      "(ii) Trewen",
-      "(iii) Celeste"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "A sovereign Protector I have",
-    "VideoLink": "https://www.emw.org.uk/2020/05/a-sovereign-protector-i-have/"
-  },
-  {
-    "Number": 144,
-    "Tunes": [
-      "All My Days"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "All my days I will sing this song of gladness",
-    "VideoLink": "https://www.emw.org.uk/2020/06/all-my-days-i-will-sing-this-song-of-gladness/"
-  },
-  {
-    "Number": 1,
-    "Tunes": [
-      "Old Hundredth"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "All people that on earth do dwell",
-    "VideoLink": "https://www.emw.org.uk/2020/06/all-people-that-on-earth-do-dwell/"
-  },
-  {
-    "Number": 304,
-    "Tunes": [
-      "Camberwell",
-      "(ii) Evelyns"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "At the name of Jesus",
-    "VideoLink": "https://www.emw.org.uk/2020/06/at-the-name-of-jesus/"
-  },
-  {
-    "Number": 296,
-    "Tunes": [
-      "Before the throne",
-      "(ii) Lledrod",
-      "(iii) Festus"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Before the throne of God above",
-    "VideoLink": "https://www.emw.org.uk/2020/05/before-the-throne-of-god-above/"
-  },
-  {
-    "Number": 704,
-    "Tunes": [
-      "Arwelfa",
-      "(ii) Nant Oer",
-      "(iii) Moriah"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Come, Thou Fount of every blessing",
-    "VideoLink": "https://www.emw.org.uk/2020/05/come-though-font-of-every-blessing/"
-  },
-  {
-    "Number": 269,
-    "Tunes": [
-      "Triumph"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Come, you saints, look here and wonder",
-    "VideoLink": "https://www.emw.org.uk/2020/06/come-you-saints-look-here-and-wonder/"
-  },
-  {
-    "Number": 146,
-    "Tunes": [
-      "Diademata"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Crown Him with many crowns",
-    "VideoLink": "https://www.emw.org.uk/2020/05/crown-him-with-many-crowns/"
-  },
-  {
-    "Number": 812,
-    "Tunes": [
-      "Aurelia"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Facing a task unfinished",
-    "VideoLink": "https://www.emw.org.uk/2020/06/facing-a-task-unfinished/"
-  },
-  {
-    "Number": 44,
-    "Tunes": [
-      "Regent Square"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Glory be to God the Father",
-    "VideoLink": "https://www.emw.org.uk/2020/06/glory-be-to-god-the-father/"
-  },
-  {
-    "Number": 150,
-    "Tunes": [
-      "Pantyfedwen"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Great is the gospel of our glorious God",
-    "VideoLink": "https://www.emw.org.uk/2020/06/great-is-the-gospel-of-our-glorious-god/"
-  },
-  {
-    "Number": 106,
-    "Tunes": [
-      "Great is Thy Faithfulness"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Great is Thy faithfulness",
-    "VideoLink": "https://www.emw.org.uk/2020/06/great-is-thy-faithfulness/"
-  },
-  {
-    "Number": 107,
-    "Tunes": [
-      "Builth"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Great providence of heaven",
-    "VideoLink": "https://www.emw.org.uk/2020/06/great-providence-of-heaven/"
-  },
-  {
-    "Number": 775,
-    "Tunes": [
-      "Cwm Rhondda"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Guide me, O Thou great Jehovah",
-    "VideoLink": "https://www.emw.org.uk/2020/06/guide-me-o-thou-great-jehovah/"
-  },
-  {
-    "Number": 153,
-    "Tunes": [
-      "Toulon"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "I greet Thee who my sure Redeemer art",
-    "VideoLink": "https://www.emw.org.uk/2020/06/i-greet-thee-who-my-sure-redeemer-art/"
-  },
-  {
-    "Number": 225,
-    "Tunes": [
-      "Bless\u00E8d be His Name"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "I have a friend whose faithful love",
-    "VideoLink": "https://www.emw.org.uk/2020/06/i-have-a-faithful-friend-whose-love/"
-  },
-  {
-    "Number": 516,
-    "Tunes": [
-      "Calvary"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "I hear Thy welcome voice",
-    "VideoLink": "https://www.emw.org.uk/2020/05/i-hear-thy-welcome-voice/"
-  },
-  {
-    "Number": 859,
-    "Tunes": [
-      "Crugybar"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "I saw a new vision of Jesus",
-    "VideoLink": "https://www.emw.org.uk/2020/05/i-saw-a-new-vision-of-jesus/"
-  },
-  {
-    "Number": 16,
-    "Tunes": [
-      "St Denio (Joanna)",
-      "(ii) St Luke"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Immortal, invisible, God only wise",
-    "VideoLink": "https://www.emw.org.uk/2020/05/immortal-invisible-god-only-wise/"
-  },
-  {
-    "Number": 171,
-    "Tunes": [
-      "Lydia"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Jesus! the Name high over all",
-    "VideoLink": "https://www.emw.org.uk/2020/05/jesus-the-name-high-over-all/"
-  },
-  {
-    "Number": 289,
-    "Tunes": [
-      "Triumph",
-      "(ii) Bryn Aber"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Look, ye saints! the sight is glorious",
-    "VideoLink": "https://www.emw.org.uk/2020/06/look-ye-saints-the-sight-is-glorious/"
-  },
-  {
-    "Number": 20,
-    "Tunes": [
-      "Westminster"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "My God, how wonderful Thou art",
-    "VideoLink": "https://www.emw.org.uk/2020/06/my-god-how-wonderful-thou-art/"
-  },
-  {
-    "Number": 586,
-    "Tunes": [
-      "Solid Rock",
-      "(ii) Newbold"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "My hope is built on nothing less",
-    "VideoLink": "https://www.emw.org.uk/2020/06/my-hope-is-built-on-nothing-less/"
-  },
-  {
-    "Number": 398,
-    "Tunes": [
-      "Spiritus Vitae"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "O Breath of Life, come sweeping through us",
-    "VideoLink": "https://www.emw.org.uk/2020/05/o-breath-of-life-come-sweeping-through-us/"
-  },
-  {
-    "Number": 113,
-    "Tunes": [
-      "Lymington"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "O Father, You are sovereign",
-    "VideoLink": "https://www.emw.org.uk/2020/06/o-father-you-are-sovereign/"
-  },
-  {
-    "Number": 556,
-    "Tunes": [
-      "Lyngham",
-      "(ii) Denfield"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "O for a thousand tongues to sing",
-    "VideoLink": "https://www.emw.org.uk/2020/06/o-for-a-thousand-tongues-to-sing/"
-  },
-  {
-    "Number": 803,
-    "Tunes": [
-      "St Margaret"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "O Love, that wilt not let me go",
-    "VideoLink": "https://www.emw.org.uk/2020/05/o-love-that-will-not-let-me-go/"
-  },
-  {
-    "Number": 170,
-    "Tunes": [
-      "Ebenezer"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "O the deep, deep love of Jesus!",
-    "VideoLink": "https://www.emw.org.uk/2020/05/o-the-deep-deep-love-of-jesus/"
-  },
-  {
-    "Number": 478,
-    "Tunes": [
-      "Love Divine (Zundel)",
-      "(ii) Hyfrydol"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Onward march, all-conquering Jesus",
-    "VideoLink": "https://www.emw.org.uk/2020/05/onward-march-all-conquering-jesus/"
-  },
-  {
-    "Number": 29,
-    "Tunes": [
-      "Praise, My Soul",
-      "(ii) Blaencefn"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Praise, my soul, the King of heaven",
-    "VideoLink": "https://www.emw.org.uk/2020/06/praise-my-soul-the-king-of-heaven/"
-  },
-  {
-    "Number": 54,
-    "Tunes": [
-      "Niagara"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "The Lord is King; lift up your voice",
-    "VideoLink": "https://www.emw.org.uk/2020/05/the-lord-is-king-lift-up-your-voice/"
-  },
-  {
-    "Number": 861,
-    "Tunes": [
-      "Rutherford (76.76.76.75)"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "The sands of time are sinking",
-    "VideoLink": "https://www.emw.org.uk/2020/05/the-sands-of-time-are-sinking/"
-  },
-  {
     "Number": 600,
     "Tunes": [
       "It is finished",
@@ -311,31 +10,29 @@
     "VideoLink": "https://www.emw.org.uk/2020/05/tis-finished-the-messiah-dies/"
   },
   {
-    "Number": 862,
+    "Number": 499,
     "Tunes": [
-      "Wells"
+      "Green Hill"
     ],
     "Type": "EMW Christian Hymns",
-    "Title": "When this passing world is done",
-    "VideoLink": "https://www.emw.org.uk/2020/06/when-this-passing-world-is-done/"
+    "Title": "\u2019Tis not by works of righteousness"
   },
   {
-    "Number": 666,
+    "Number": 498,
     "Tunes": [
-      "All that thrills my soul"
+      "Missionary"
     ],
     "Type": "EMW Christian Hymns",
-    "Title": "Who can cheer the heart like Jesus",
-    "VideoLink": "https://www.emw.org.uk/2020/06/who-can-cheer-the-heart-like-jesus/"
+    "Title": "\u2019Tis not that I did choose Thee"
   },
   {
-    "Number": 226,
+    "Number": 186,
     "Tunes": [
-      "Wondrous Story"
+      "Ar hyd y nos",
+      "(ii) Southgate"
     ],
     "Type": "EMW Christian Hymns",
-    "Title": "Who is He in yonder stall",
-    "VideoLink": "https://www.emw.org.uk/2020/06/who-is-he-in-yonder-stall/"
+    "Title": "\u2019Tis the church triumphant singing"
   },
   {
     "Number": 813,
@@ -438,6 +135,17 @@
     "Title": "A sinner you may call me"
   },
   {
+    "Number": 606,
+    "Tunes": [
+      "Cleveland",
+      "(ii) Trewen",
+      "(iii) Celeste"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "A sovereign Protector I have",
+    "VideoLink": "https://www.emw.org.uk/2020/05/a-sovereign-protector-i-have/"
+  },
+  {
     "Number": 906,
     "Tunes": [
       "Abba Father"
@@ -486,14 +194,6 @@
     "Title": "All for Jesus, all for Jesus!"
   },
   {
-    "Number": 139,
-    "Tunes": [
-      "St Theodulph"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "All glory, praise and honour"
-  },
-  {
     "Number": 394,
     "Tunes": [
       "Cleveland"
@@ -502,12 +202,12 @@
     "Title": "All glory to God in the sky"
   },
   {
-    "Number": 907,
+    "Number": 139,
     "Tunes": [
-      "All Hail King Jesus"
+      "St Theodulph"
     ],
     "Type": "EMW Christian Hymns",
-    "Title": "All hail, King Jesus"
+    "Title": "All glory, praise and honour"
   },
   {
     "Number": 140,
@@ -517,6 +217,14 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "All hail the power of Jesus\u2019 Name!"
+  },
+  {
+    "Number": 907,
+    "Tunes": [
+      "All Hail King Jesus"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "All hail, King Jesus"
   },
   {
     "Number": 141,
@@ -536,6 +244,15 @@
     "VideoLink": "https://www.emw.org.uk/2020/06/all-i-once-held-dear/"
   },
   {
+    "Number": 144,
+    "Tunes": [
+      "All My Days"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "All my days I will sing this song of gladness",
+    "VideoLink": "https://www.emw.org.uk/2020/06/all-my-days-i-will-sing-this-song-of-gladness/"
+  },
+  {
     "Number": 194,
     "Tunes": [
       "Bonn",
@@ -553,6 +270,15 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "All my hope on God is founded"
+  },
+  {
+    "Number": 1,
+    "Tunes": [
+      "Old Hundredth"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "All people that on earth do dwell",
+    "VideoLink": "https://www.emw.org.uk/2020/06/all-people-that-on-earth-do-dwell/"
   },
   {
     "Number": 195,
@@ -850,6 +576,16 @@
     "Title": "At the cross of Jesus"
   },
   {
+    "Number": 304,
+    "Tunes": [
+      "Camberwell",
+      "(ii) Evelyns"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "At the name of Jesus",
+    "VideoLink": "https://www.emw.org.uk/2020/06/at-the-name-of-jesus/"
+  },
+  {
     "Number": 143,
     "Tunes": [
       "At Your Feet"
@@ -964,12 +700,15 @@
     "Title": "Before Jehovah\u2019s awesome throne"
   },
   {
-    "Number": 40,
+    "Number": 296,
     "Tunes": [
-      "St Magnus"
+      "Before the throne",
+      "(ii) Lledrod",
+      "(iii) Festus"
     ],
     "Type": "EMW Christian Hymns",
-    "Title": "Begin, my soul, some heavenly theme"
+    "Title": "Before the throne of God above",
+    "VideoLink": "https://www.emw.org.uk/2020/05/before-the-throne-of-god-above/"
   },
   {
     "Number": 69,
@@ -978,6 +717,14 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Begin the day with God"
+  },
+  {
+    "Number": 40,
+    "Tunes": [
+      "St Magnus"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Begin, my soul, some heavenly theme"
   },
   {
     "Number": 744,
@@ -1004,14 +751,6 @@
     "Title": "Behold the amazing sight!"
   },
   {
-    "Number": 198,
-    "Tunes": [
-      "St Andrew (C.M.)"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Behold, the great Creator makes"
-  },
-  {
     "Number": 234,
     "Tunes": [
       "Rhosymedre"
@@ -1020,20 +759,28 @@
     "Title": "Behold the immortal Lamb"
   },
   {
-    "Number": 461,
-    "Tunes": [
-      "Glasgow"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Behold, the mountain of the Lord"
-  },
-  {
     "Number": 407,
     "Tunes": [
       "Augustine"
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Behold the throne of grace"
+  },
+  {
+    "Number": 198,
+    "Tunes": [
+      "St Andrew (C.M.)"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Behold, the great Creator makes"
+  },
+  {
+    "Number": 461,
+    "Tunes": [
+      "Glasgow"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Behold, the mountain of the Lord"
   },
   {
     "Number": 607,
@@ -1313,6 +1060,15 @@
     "Title": "Christ Jesus lay in death\u2019s strong bands"
   },
   {
+    "Number": 305,
+    "Tunes": [
+      "Christ Triumphant",
+      "(ii) Guiting Power"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Christ triumphant, ever reigning"
+  },
+  {
     "Number": 724,
     "Tunes": [
       "Aberafon"
@@ -1327,15 +1083,6 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Christ, the Lord, is risen today"
-  },
-  {
-    "Number": 305,
-    "Tunes": [
-      "Christ Triumphant",
-      "(ii) Guiting Power"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Christ triumphant, ever reigning"
   },
   {
     "Number": 532,
@@ -1405,20 +1152,61 @@
     "VideoLink": "https://www.emw.org.uk/2020/06/come-and-see/"
   },
   {
-    "Number": 80,
-    "Tunes": [
-      "Melcombe"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Come, dearest Lord, descend and dwell"
-  },
-  {
     "Number": 326,
     "Tunes": [
       "Down Ampney"
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Come down, O Love divine"
+  },
+  {
+    "Number": 329,
+    "Tunes": [
+      "Franconia"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Come Holy Spirit, come"
+  },
+  {
+    "Number": 70,
+    "Tunes": [
+      "Doncaster"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Come now with joyful hearts"
+  },
+  {
+    "Number": 534,
+    "Tunes": [
+      "Invitation"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Come to the Saviour now!"
+  },
+  {
+    "Number": 536,
+    "Tunes": [
+      "Springfield",
+      "(ii) Water of Life"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Come to the waters, whoever is thirsty"
+  },
+  {
+    "Number": 535,
+    "Tunes": [
+      "Ewing"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Come unto Me, ye weary"
+  },
+  {
+    "Number": 80,
+    "Tunes": [
+      "Melcombe"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Come, dearest Lord, descend and dwell"
   },
   {
     "Number": 701,
@@ -1460,23 +1248,6 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Come, Holy Ghost, my heart assure"
-  },
-  {
-    "Number": 331,
-    "Tunes": [
-      "St Columba (C.M.)",
-      "(ii) St Stephen"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Come. Holy Ghost, our hearts inspire"
-  },
-  {
-    "Number": 329,
-    "Tunes": [
-      "Franconia"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Come Holy Spirit, come"
   },
   {
     "Number": 424,
@@ -1587,14 +1358,6 @@
     "Title": "Come, my soul, thy plea prepare"
   },
   {
-    "Number": 70,
-    "Tunes": [
-      "Doncaster"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Come now with joyful hearts"
-  },
-  {
     "Number": 512,
     "Tunes": [
       "St Flavian"
@@ -1635,6 +1398,17 @@
     "Title": "Come, Thou everlasting Spirit"
   },
   {
+    "Number": 704,
+    "Tunes": [
+      "Arwelfa",
+      "(ii) Nant Oer",
+      "(iii) Moriah"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Come, Thou Fount of every blessing",
+    "VideoLink": "https://www.emw.org.uk/2020/05/come-though-font-of-every-blessing/"
+  },
+  {
     "Number": 303,
     "Tunes": [
       "Stuttgart",
@@ -1642,31 +1416,6 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Come, Thou long-expected Jesus"
-  },
-  {
-    "Number": 534,
-    "Tunes": [
-      "Invitation"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Come to the Saviour now!"
-  },
-  {
-    "Number": 536,
-    "Tunes": [
-      "Springfield",
-      "(ii) Water of Life"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Come to the waters, whoever is thirsty"
-  },
-  {
-    "Number": 535,
-    "Tunes": [
-      "Ewing"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Come unto Me, ye weary"
   },
   {
     "Number": 682,
@@ -1684,6 +1433,24 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Come, ye thankful people, come"
+  },
+  {
+    "Number": 269,
+    "Tunes": [
+      "Triumph"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Come, you saints, look here and wonder",
+    "VideoLink": "https://www.emw.org.uk/2020/06/come-you-saints-look-here-and-wonder/"
+  },
+  {
+    "Number": 331,
+    "Tunes": [
+      "St Columba (C.M.)",
+      "(ii) St Stephen"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Come. Holy Ghost, our hearts inspire"
   },
   {
     "Number": 42,
@@ -1732,6 +1499,15 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Create in me a clean heart, O God"
+  },
+  {
+    "Number": 146,
+    "Tunes": [
+      "Diademata"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Crown Him with many crowns",
+    "VideoLink": "https://www.emw.org.uk/2020/05/crown-him-with-many-crowns/"
   },
   {
     "Number": 315,
@@ -1822,6 +1598,15 @@
     "Title": "Except the Lord the house should build"
   },
   {
+    "Number": 812,
+    "Tunes": [
+      "Aurelia"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Facing a task unfinished",
+    "VideoLink": "https://www.emw.org.uk/2020/06/facing-a-task-unfinished/"
+  },
+  {
     "Number": 147,
     "Tunes": [
       "Ascalon"
@@ -1844,30 +1629,6 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Far off I see the goal"
-  },
-  {
-    "Number": 774,
-    "Tunes": [
-      "Elidir"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Father, although I cannot see"
-  },
-  {
-    "Number": 871,
-    "Tunes": [
-      "Dedication"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Father, let us dedicate"
-  },
-  {
-    "Number": 462,
-    "Tunes": [
-      "Hart\u2019s"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Father, let Your kingdom come"
   },
   {
     "Number": 334,
@@ -1917,6 +1678,30 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Father, \u2019twas Thy love that knew us"
+  },
+  {
+    "Number": 774,
+    "Tunes": [
+      "Elidir"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Father, although I cannot see"
+  },
+  {
+    "Number": 871,
+    "Tunes": [
+      "Dedication"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Father, let us dedicate"
+  },
+  {
+    "Number": 462,
+    "Tunes": [
+      "Hart\u2019s"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Father, let Your kingdom come"
   },
   {
     "Number": 913,
@@ -2080,20 +1865,20 @@
     "Title": "From heaven You came, helpless babe"
   },
   {
-    "Number": 858,
-    "Tunes": [
-      "Crugybar"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "From heavenly Jerusalem\u2019s towers"
-  },
-  {
     "Number": 125,
     "Tunes": [
       "Bishopthorpe"
     ],
     "Type": "EMW Christian Hymns",
     "Title": "From heaven\u2019s eternal throne there came"
+  },
+  {
+    "Number": 858,
+    "Tunes": [
+      "Crugybar"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "From heavenly Jerusalem\u2019s towers"
   },
   {
     "Number": 94,
@@ -2212,21 +1997,21 @@
     "Title": "Glory be to God on high"
   },
   {
+    "Number": 44,
+    "Tunes": [
+      "Regent Square"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Glory be to God the Father",
+    "VideoLink": "https://www.emw.org.uk/2020/06/glory-be-to-god-the-father/"
+  },
+  {
     "Number": 237,
     "Tunes": [
       "Derby"
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Glory be to Jesus"
-  },
-  {
-    "Number": 239,
-    "Tunes": [
-      "Coedmor",
-      "(ii) Westminster Abbey"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Glory, glory everlasting"
   },
   {
     "Number": 148,
@@ -2253,6 +2038,15 @@
     "Title": "Glory to Thee, my God, this night"
   },
   {
+    "Number": 239,
+    "Tunes": [
+      "Coedmor",
+      "(ii) Westminster Abbey"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Glory, glory everlasting"
+  },
+  {
     "Number": 464,
     "Tunes": [
       "Go Forth"
@@ -2261,20 +2055,20 @@
     "Title": "Go forth and tell! O Church of God, awake!"
   },
   {
-    "Number": 819,
-    "Tunes": [
-      "Saxby"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Go, labour on; spend, and be spent"
-  },
-  {
     "Number": 463,
     "Tunes": [
       "Herongate"
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Go quickly, for the fading hours"
+  },
+  {
+    "Number": 819,
+    "Tunes": [
+      "Saxby"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Go, labour on; spend, and be spent"
   },
   {
     "Number": 374,
@@ -2365,6 +2159,14 @@
     "Title": "God of glory, God of grace"
   },
   {
+    "Number": 887,
+    "Tunes": [
+      "Tegwch"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "God of mercy, hear our prayer"
+  },
+  {
     "Number": 466,
     "Tunes": [
       "Spanish Chant",
@@ -2372,14 +2174,6 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "God of mercy! God of grace!"
-  },
-  {
-    "Number": 887,
-    "Tunes": [
-      "Tegwch"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "God of mercy, hear our prayer"
   },
   {
     "Number": 409,
@@ -2484,6 +2278,24 @@
     "Title": "Great High Priest, we view Thee stooping"
   },
   {
+    "Number": 150,
+    "Tunes": [
+      "Pantyfedwen"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Great is the gospel of our glorious God",
+    "VideoLink": "https://www.emw.org.uk/2020/06/great-is-the-gospel-of-our-glorious-god/"
+  },
+  {
+    "Number": 106,
+    "Tunes": [
+      "Great is Thy Faithfulness"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Great is Thy faithfulness",
+    "VideoLink": "https://www.emw.org.uk/2020/06/great-is-thy-faithfulness/"
+  },
+  {
     "Number": 323,
     "Tunes": [
       "Leominster"
@@ -2500,12 +2312,30 @@
     "Title": "Great King of nations, hear our prayer"
   },
   {
+    "Number": 107,
+    "Tunes": [
+      "Builth"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Great providence of heaven",
+    "VideoLink": "https://www.emw.org.uk/2020/06/great-providence-of-heaven/"
+  },
+  {
     "Number": 410,
     "Tunes": [
       "Abridge"
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Great Shepherd of Your people, hear"
+  },
+  {
+    "Number": 775,
+    "Tunes": [
+      "Cwm Rhondda"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Guide me, O Thou great Jehovah",
+    "VideoLink": "https://www.emw.org.uk/2020/06/guide-me-o-thou-great-jehovah/"
   },
   {
     "Number": 288,
@@ -2517,6 +2347,14 @@
     "Title": "Hail the day that sees Him rise"
   },
   {
+    "Number": 467,
+    "Tunes": [
+      "Cr\u00FCger"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Hail to the Lord\u2019s anointed"
+  },
+  {
     "Number": 151,
     "Tunes": [
       "Hyfrydol"
@@ -2525,12 +2363,12 @@
     "Title": "Hail, Thou once despis\u00E8d Jesus!"
   },
   {
-    "Number": 467,
+    "Number": 917,
     "Tunes": [
-      "Cr\u00FCger"
+      "Hallelujah, my Father"
     ],
     "Type": "EMW Christian Hymns",
-    "Title": "Hail to the Lord\u2019s anointed"
+    "Title": "Hallelujah, my Father"
   },
   {
     "Number": 916,
@@ -2555,14 +2393,6 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Hallelujah! Hallelujah! hearts to heaven"
-  },
-  {
-    "Number": 917,
-    "Tunes": [
-      "Hallelujah, my Father"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Hallelujah, my Father"
   },
   {
     "Number": 888,
@@ -3141,6 +2971,24 @@
     "Title": "I could not do without You"
   },
   {
+    "Number": 153,
+    "Tunes": [
+      "Toulon"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "I greet Thee who my sure Redeemer art",
+    "VideoLink": "https://www.emw.org.uk/2020/06/i-greet-thee-who-my-sure-redeemer-art/"
+  },
+  {
+    "Number": 225,
+    "Tunes": [
+      "Bless\u00E8d be His Name"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "I have a friend whose faithful love",
+    "VideoLink": "https://www.emw.org.uk/2020/06/i-have-a-faithful-friend-whose-love/"
+  },
+  {
     "Number": 702,
     "Tunes": [
       "Constance"
@@ -3155,6 +3003,15 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "I hear the words of love"
+  },
+  {
+    "Number": 516,
+    "Tunes": [
+      "Calvary"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "I hear Thy welcome voice",
+    "VideoLink": "https://www.emw.org.uk/2020/05/i-hear-thy-welcome-voice/"
   },
   {
     "Number": 579,
@@ -3305,6 +3162,15 @@
     "Title": "I rest in God alone"
   },
   {
+    "Number": 859,
+    "Tunes": [
+      "Crugybar"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "I saw a new vision of Jesus",
+    "VideoLink": "https://www.emw.org.uk/2020/05/i-saw-a-new-vision-of-jesus/"
+  },
+  {
     "Number": 617,
     "Tunes": [
       "He lives"
@@ -3427,6 +3293,23 @@
     "Title": "I\u2019m not ashamed to own my Lord"
   },
   {
+    "Number": 648,
+    "Tunes": [
+      "Constance",
+      "(ii) I\u2019ve found a Friend"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "I\u2019ve found a Friend, O such a Friend!"
+  },
+  {
+    "Number": 156,
+    "Tunes": [
+      "Dalehurst"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "I\u2019ve found the pearl of greatest price"
+  },
+  {
     "Number": 154,
     "Tunes": [
       "Huntingdon",
@@ -3435,6 +3318,16 @@
     "Type": "EMW Christian Hymns",
     "Title": "Immortal honours rest on Jesus\u2019 head",
     "VideoLink": "https://www.emw.org.uk/2020/05/immortal-honours-rest-on-jesus-head/"
+  },
+  {
+    "Number": 16,
+    "Tunes": [
+      "St Denio (Joanna)",
+      "(ii) St Luke"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Immortal, invisible, God only wise",
+    "VideoLink": "https://www.emw.org.uk/2020/05/immortal-invisible-god-only-wise/"
   },
   {
     "Number": 647,
@@ -3593,23 +3486,6 @@
     "Title": "It passes knowledge, that dear love of Thine"
   },
   {
-    "Number": 648,
-    "Tunes": [
-      "Constance",
-      "(ii) I\u2019ve found a Friend"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "I\u2019ve found a Friend, O such a Friend!"
-  },
-  {
-    "Number": 156,
-    "Tunes": [
-      "Dalehurst"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "I\u2019ve found the pearl of greatest price"
-  },
-  {
     "Number": 855,
     "Tunes": [
       "Ewing"
@@ -3625,22 +3501,6 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Jesu, Lover of my soul"
-  },
-  {
-    "Number": 729,
-    "Tunes": [
-      "Canterbury"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Jesus, all-atoning Lamb"
-  },
-  {
-    "Number": 824,
-    "Tunes": [
-      "Ombersley"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Jesus, and shall it ever be"
   },
   {
     "Number": 822,
@@ -3667,12 +3527,109 @@
     "Title": "Jesus Christ is risen today"
   },
   {
-    "Number": 643,
+    "Number": 441,
     "Tunes": [
-      "Milwaukee"
+      "Southport (S.M.)"
     ],
     "Type": "EMW Christian Hymns",
-    "Title": "Jesus! exalted far on high"
+    "Title": "Jesus invites His saints"
+  },
+  {
+    "Number": 302,
+    "Tunes": [
+      "Jesus is King"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Jesus is King and I will extol Him"
+  },
+  {
+    "Number": 160,
+    "Tunes": [
+      "Jesus is Lord"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Jesus is Lord! Creation\u2019s voice proclaims it",
+    "VideoLink": "https://www.emw.org.uk/2020/05/jesus-is-lord-creation/"
+  },
+  {
+    "Number": 159,
+    "Tunes": [
+      "Jesus is the Name we honour"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Jesus is the name we honour"
+  },
+  {
+    "Number": 620,
+    "Tunes": [
+      "Jesu meine Zuversicht"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Jesus lives, and so shall I!"
+  },
+  {
+    "Number": 273,
+    "Tunes": [
+      "St Albinus"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Jesus lives! your terrors now"
+  },
+  {
+    "Number": 898,
+    "Tunes": [
+      "Jesus loves me"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Jesus loves me, this I know"
+  },
+  {
+    "Number": 621,
+    "Tunes": [
+      "Jesus my Lord"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Jesus my Lord will love me for ever"
+  },
+  {
+    "Number": 310,
+    "Tunes": [
+      "Rimington"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Jesus shall reign where\u2019er the sun"
+  },
+  {
+    "Number": 929,
+    "Tunes": [
+      "Jesus shall take"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Jesus shall take the highest honour"
+  },
+  {
+    "Number": 246,
+    "Tunes": [
+      "Summer Land"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Jesus was slain for me"
+  },
+  {
+    "Number": 729,
+    "Tunes": [
+      "Canterbury"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Jesus, all-atoning Lamb"
+  },
+  {
+    "Number": 824,
+    "Tunes": [
+      "Ombersley"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Jesus, and shall it ever be"
   },
   {
     "Number": 902,
@@ -3723,39 +3680,6 @@
     "Title": "Jesus, immortal King, go on"
   },
   {
-    "Number": 441,
-    "Tunes": [
-      "Southport (S.M.)"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Jesus invites His saints"
-  },
-  {
-    "Number": 302,
-    "Tunes": [
-      "Jesus is King"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Jesus is King and I will extol Him"
-  },
-  {
-    "Number": 160,
-    "Tunes": [
-      "Jesus is Lord"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Jesus is Lord! Creation\u2019s voice proclaims it",
-    "VideoLink": "https://www.emw.org.uk/2020/05/jesus-is-lord-creation/"
-  },
-  {
-    "Number": 159,
-    "Tunes": [
-      "Jesus is the Name we honour"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Jesus is the name we honour"
-  },
-  {
     "Number": 650,
     "Tunes": [
       "Llwynbedw"
@@ -3772,36 +3696,12 @@
     "Title": "Jesus, keep me near the cross"
   },
   {
-    "Number": 620,
-    "Tunes": [
-      "Jesu meine Zuversicht"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Jesus lives, and so shall I!"
-  },
-  {
-    "Number": 273,
-    "Tunes": [
-      "St Albinus"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Jesus lives! your terrors now"
-  },
-  {
     "Number": 383,
     "Tunes": [
       "Capernaum"
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Jesus, Lord, we look to Thee"
-  },
-  {
-    "Number": 898,
-    "Tunes": [
-      "Jesus loves me"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Jesus loves me, this I know"
   },
   {
     "Number": 521,
@@ -3818,14 +3718,6 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Jesus, my Lord, my God, my all"
-  },
-  {
-    "Number": 621,
-    "Tunes": [
-      "Jesus my Lord"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Jesus my Lord will love me for ever"
   },
   {
     "Number": 734,
@@ -3877,39 +3769,6 @@
     "Title": "Jesus, Prince and Saviour"
   },
   {
-    "Number": 517,
-    "Tunes": [
-      "Jackson"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Jesus! Redeemer, Saviour, Lord"
-  },
-  {
-    "Number": 310,
-    "Tunes": [
-      "Rimington"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Jesus shall reign where\u2019er the sun"
-  },
-  {
-    "Number": 929,
-    "Tunes": [
-      "Jesus shall take"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Jesus shall take the highest honour"
-  },
-  {
-    "Number": 412,
-    "Tunes": [
-      "North Coates",
-      "(ii) Derby"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Jesus! stand among us"
-  },
-  {
     "Number": 777,
     "Tunes": [
       "Spire",
@@ -3941,14 +3800,6 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Jesus, the sinner\u2019s friend, to Thee"
-  },
-  {
-    "Number": 161,
-    "Tunes": [
-      "Trentham"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Jesus! the sinner\u2019s friend, we hide"
   },
   {
     "Number": 162,
@@ -4000,14 +3851,6 @@
     "Title": "Jesus, to Thee our hearts we lift"
   },
   {
-    "Number": 246,
-    "Tunes": [
-      "Summer Land"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Jesus was slain for me"
-  },
-  {
     "Number": 61,
     "Tunes": [
       "Carlisle"
@@ -4055,6 +3898,48 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Jesus, Your blood and righteousness"
+  },
+  {
+    "Number": 643,
+    "Tunes": [
+      "Milwaukee"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Jesus! exalted far on high"
+  },
+  {
+    "Number": 517,
+    "Tunes": [
+      "Jackson"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Jesus! Redeemer, Saviour, Lord"
+  },
+  {
+    "Number": 412,
+    "Tunes": [
+      "North Coates",
+      "(ii) Derby"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Jesus! stand among us"
+  },
+  {
+    "Number": 171,
+    "Tunes": [
+      "Lydia"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Jesus! the Name high over all",
+    "VideoLink": "https://www.emw.org.uk/2020/05/jesus-the-name-high-over-all/"
+  },
+  {
+    "Number": 161,
+    "Tunes": [
+      "Trentham"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Jesus! the sinner\u2019s friend, we hide"
   },
   {
     "Number": 165,
@@ -4108,14 +3993,6 @@
     "Title": "Lamp of our feet, whereby we trace"
   },
   {
-    "Number": 317,
-    "Tunes": [
-      "In Memoriam (87.87.D)"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Lead, Lord Jesus, my frail spirit"
-  },
-  {
     "Number": 82,
     "Tunes": [
       "Lead  me, Lord"
@@ -4131,6 +4008,14 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Lead us, heavenly Father, lead us"
+  },
+  {
+    "Number": 317,
+    "Tunes": [
+      "In Memoriam (87.87.D)"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Lead, Lord Jesus, my frail spirit"
   },
   {
     "Number": 779,
@@ -4262,28 +4147,14 @@
     "VideoLink": "https://www.emw.org.uk/2020/06/long-as-i-live-ill-bless-your-name/"
   },
   {
-    "Number": 83,
+    "Number": 289,
     "Tunes": [
-      "Dismissal"
+      "Triumph",
+      "(ii) Bryn Aber"
     ],
     "Type": "EMW Christian Hymns",
-    "Title": "Lord, dismiss us with Your blessing"
-  },
-  {
-    "Number": 470,
-    "Tunes": [
-      "Lord of the Years"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Lord, for the years Your love has kept and guided"
-  },
-  {
-    "Number": 384,
-    "Tunes": [
-      "Maidstone"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Lord, from whom all blessings flow"
+    "Title": "Look, ye saints! the sight is glorious",
+    "VideoLink": "https://www.emw.org.uk/2020/06/look-ye-saints-the-sight-is-glorious/"
   },
   {
     "Number": 337,
@@ -4294,45 +4165,12 @@
     "Title": "Lord God the Holy Ghost"
   },
   {
-    "Number": 473,
+    "Number": 415,
     "Tunes": [
-      "Pennant"
+      "Boston"
     ],
     "Type": "EMW Christian Hymns",
-    "Title": "Lord, her watch Your church is keeping"
-  },
-  {
-    "Number": 551,
-    "Tunes": [
-      "Blaen-y-Coed",
-      "(ii) Even Me"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Lord, I hear of showers of blessing"
-  },
-  {
-    "Number": 522,
-    "Tunes": [
-      "Bodmin"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Lord, I was blind! I could not see"
-  },
-  {
-    "Number": 444,
-    "Tunes": [
-      "Rimington"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Lord, in this blest and hallowed hour"
-  },
-  {
-    "Number": 798,
-    "Tunes": [
-      "St Hugh"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Lord, it belongs not to my care"
+    "Title": "Lord Jesus Christ, we seek Thy face"
   },
   {
     "Number": 641,
@@ -4343,28 +4181,12 @@
     "Title": "Lord Jesus, are we one with Thee?"
   },
   {
-    "Number": 415,
-    "Tunes": [
-      "Boston"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Lord Jesus Christ, we seek Thy face"
-  },
-  {
     "Number": 752,
     "Tunes": [
       "Southwell (S.M.)"
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Lord Jesus, think on me"
-  },
-  {
-    "Number": 77,
-    "Tunes": [
-      "Vespers"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Lord, keep us safe this night"
   },
   {
     "Number": 96,
@@ -4413,6 +4235,79 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Lord of the worlds above"
+  },
+  {
+    "Number": 83,
+    "Tunes": [
+      "Dismissal"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Lord, dismiss us with Your blessing"
+  },
+  {
+    "Number": 470,
+    "Tunes": [
+      "Lord of the Years"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Lord, for the years Your love has kept and guided"
+  },
+  {
+    "Number": 384,
+    "Tunes": [
+      "Maidstone"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Lord, from whom all blessings flow"
+  },
+  {
+    "Number": 473,
+    "Tunes": [
+      "Pennant"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Lord, her watch Your church is keeping"
+  },
+  {
+    "Number": 551,
+    "Tunes": [
+      "Blaen-y-Coed",
+      "(ii) Even Me"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Lord, I hear of showers of blessing"
+  },
+  {
+    "Number": 522,
+    "Tunes": [
+      "Bodmin"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Lord, I was blind! I could not see"
+  },
+  {
+    "Number": 444,
+    "Tunes": [
+      "Rimington"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Lord, in this blest and hallowed hour"
+  },
+  {
+    "Number": 798,
+    "Tunes": [
+      "St Hugh"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Lord, it belongs not to my care"
+  },
+  {
+    "Number": 77,
+    "Tunes": [
+      "Vespers"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Lord, keep us safe this night"
   },
   {
     "Number": 823,
@@ -4569,6 +4464,14 @@
     "Title": "My faith looks up to Thee"
   },
   {
+    "Number": 755,
+    "Tunes": [
+      "St John"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "My God shall be my strength"
+  },
+  {
     "Number": 446,
     "Tunes": [
       "Luther\u2019s Chant"
@@ -4586,6 +4489,15 @@
     "Title": "My God, how shall I tell the grace"
   },
   {
+    "Number": 20,
+    "Tunes": [
+      "Westminster"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "My God, how wonderful Thou art",
+    "VideoLink": "https://www.emw.org.uk/2020/06/my-god-how-wonderful-thou-art/"
+  },
+  {
     "Number": 690,
     "Tunes": [
       "Harwich"
@@ -4600,14 +4512,6 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "My God, I thank Thee, who hast made"
-  },
-  {
-    "Number": 755,
-    "Tunes": [
-      "St John"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "My God shall be my strength"
   },
   {
     "Number": 826,
@@ -4657,6 +4561,16 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "My helper, God! I bless His Name"
+  },
+  {
+    "Number": 586,
+    "Tunes": [
+      "Solid Rock",
+      "(ii) Newbold"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "My hope is built on nothing less",
+    "VideoLink": "https://www.emw.org.uk/2020/06/my-hope-is-built-on-nothing-less/"
   },
   {
     "Number": 130,
@@ -4851,14 +4765,6 @@
     "Title": "Not worthy, Lord, to gather up the crumbs"
   },
   {
-    "Number": 62,
-    "Tunes": [
-      "London New"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Now, gracious God, Thine arm reveal"
-  },
-  {
     "Number": 624,
     "Tunes": [
       "Madrid",
@@ -4932,6 +4838,14 @@
     "Title": "Now to the power of God supreme"
   },
   {
+    "Number": 62,
+    "Tunes": [
+      "London New"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Now, gracious God, Thine arm reveal"
+  },
+  {
     "Number": 21,
     "Tunes": [
       "St George"
@@ -4946,6 +4860,15 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "O Breath of God, breathe on us now"
+  },
+  {
+    "Number": 398,
+    "Tunes": [
+      "Spiritus Vitae"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "O Breath of Life, come sweeping through us",
+    "VideoLink": "https://www.emw.org.uk/2020/05/o-breath-of-life-come-sweeping-through-us/"
   },
   {
     "Number": 524,
@@ -5005,6 +4928,15 @@
     "Title": "O day of rest and gladness"
   },
   {
+    "Number": 113,
+    "Tunes": [
+      "Lymington"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "O Father, You are sovereign",
+    "VideoLink": "https://www.emw.org.uk/2020/06/o-father-you-are-sovereign/"
+  },
+  {
     "Number": 846,
     "Tunes": [
       "Martyrdom"
@@ -5020,6 +4952,16 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "O for a heart to praise my God"
+  },
+  {
+    "Number": 556,
+    "Tunes": [
+      "Lyngham",
+      "(ii) Denfield"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "O for a thousand tongues to sing",
+    "VideoLink": "https://www.emw.org.uk/2020/06/o-for-a-thousand-tongues-to-sing/"
   },
   {
     "Number": 23,
@@ -5181,6 +5123,32 @@
     "Title": "O little town of Bethlehem"
   },
   {
+    "Number": 714,
+    "Tunes": [
+      "O Mighty God"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "O Lord my God, I stand and gaze in wonder",
+    "VideoLink": "https://www.emw.org.uk/2020/05/how-great-thou-art/"
+  },
+  {
+    "Number": 878,
+    "Tunes": [
+      "Almsgiving"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "O Lord of heaven, and earth, and sea"
+  },
+  {
+    "Number": 477,
+    "Tunes": [
+      "Sarah",
+      "(ii) Huddersfield (S.M.)"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "O Lord our God, arise!"
+  },
+  {
     "Number": 889,
     "Tunes": [
       "Lloyd"
@@ -5212,32 +5180,6 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "O Lord, I would delight in Thee"
-  },
-  {
-    "Number": 714,
-    "Tunes": [
-      "O Mighty God"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "O Lord my God, I stand and gaze in wonder",
-    "VideoLink": "https://www.emw.org.uk/2020/05/how-great-thou-art/"
-  },
-  {
-    "Number": 878,
-    "Tunes": [
-      "Almsgiving"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "O Lord of heaven, and earth, and sea"
-  },
-  {
-    "Number": 477,
-    "Tunes": [
-      "Sarah",
-      "(ii) Huddersfield (S.M.)"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "O Lord our God, arise!"
   },
   {
     "Number": 675,
@@ -5279,6 +5221,15 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "O love of God, how strong and true"
+  },
+  {
+    "Number": 803,
+    "Tunes": [
+      "St Margaret"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "O Love, that wilt not let me go",
+    "VideoLink": "https://www.emw.org.uk/2020/05/o-love-that-will-not-let-me-go/"
   },
   {
     "Number": 591,
@@ -5396,6 +5347,15 @@
     "Title": "O the bitter shame and sorrow"
   },
   {
+    "Number": 170,
+    "Tunes": [
+      "Ebenezer"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "O the deep, deep love of Jesus!",
+    "VideoLink": "https://www.emw.org.uk/2020/05/o-the-deep-deep-love-of-jesus/"
+  },
+  {
     "Number": 418,
     "Tunes": [
       "Eagley"
@@ -5411,23 +5371,6 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "O thou my soul, bless God the Lord"
-  },
-  {
-    "Number": 176,
-    "Tunes": [
-      "Holley"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "O thou, my soul, forget no more"
-  },
-  {
-    "Number": 759,
-    "Tunes": [
-      "Elmhurst",
-      "(ii) Just as I am"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "O Thou, the contrite sinner\u2019s Friend"
   },
   {
     "Number": 827,
@@ -5446,6 +5389,23 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "O Thou who hast redeemed of old"
+  },
+  {
+    "Number": 176,
+    "Tunes": [
+      "Holley"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "O thou, my soul, forget no more"
+  },
+  {
+    "Number": 759,
+    "Tunes": [
+      "Elmhurst",
+      "(ii) Just as I am"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "O Thou, the contrite sinner\u2019s Friend"
   },
   {
     "Number": 557,
@@ -5514,6 +5474,14 @@
     "Title": "O worship the Lord in the beauty of holiness"
   },
   {
+    "Number": 471,
+    "Tunes": [
+      "Caersalem"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "O\u2019er the gloomy hills of darkness"
+  },
+  {
     "Number": 660,
     "Tunes": [
       "Hollingside",
@@ -5521,14 +5489,6 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Object of my first desire"
-  },
-  {
-    "Number": 471,
-    "Tunes": [
-      "Caersalem"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "O\u2019er the gloomy hills of darkness"
   },
   {
     "Number": 760,
@@ -5587,6 +5547,16 @@
     "Title": "Only by grace can we enter"
   },
   {
+    "Number": 478,
+    "Tunes": [
+      "Love Divine (Zundel)",
+      "(ii) Hyfrydol"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Onward march, all-conquering Jesus",
+    "VideoLink": "https://www.emw.org.uk/2020/05/onward-march-all-conquering-jesus/"
+  },
+  {
     "Number": 761,
     "Tunes": [
       "St Gertrude"
@@ -5627,20 +5597,20 @@
     "Title": "Our God almighty be adored"
   },
   {
-    "Number": 400,
-    "Tunes": [
-      "Bangor"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Our God! our God! shine on us here"
-  },
-  {
     "Number": 115,
     "Tunes": [
       "St Anne"
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Our God, our help in ages past"
+  },
+  {
+    "Number": 400,
+    "Tunes": [
+      "Bangor"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Our God! our God! shine on us here"
   },
   {
     "Number": 419,
@@ -5749,22 +5719,6 @@
     "Title": "Praise Him, praise Him! Jesus our bless\u00E8d Redeemer"
   },
   {
-    "Number": 27,
-    "Tunes": [
-      "Mainzer"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Praise, Lord, for Thee in Zion waits"
-  },
-  {
-    "Number": 879,
-    "Tunes": [
-      "Cairnbrook"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Praise, O praise the Lord of harvest"
-  },
-  {
     "Number": 92,
     "Tunes": [
       "Laus Deo"
@@ -5812,6 +5766,32 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Praise ye the Lord; \u2019tis good to raise"
+  },
+  {
+    "Number": 27,
+    "Tunes": [
+      "Mainzer"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Praise, Lord, for Thee in Zion waits"
+  },
+  {
+    "Number": 29,
+    "Tunes": [
+      "Praise, My Soul",
+      "(ii) Blaencefn"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Praise, my soul, the King of heaven",
+    "VideoLink": "https://www.emw.org.uk/2020/06/praise-my-soul-the-king-of-heaven/"
+  },
+  {
+    "Number": 879,
+    "Tunes": [
+      "Cairnbrook"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Praise, O praise the Lord of harvest"
   },
   {
     "Number": 287,
@@ -5880,14 +5860,6 @@
     "Title": "Ride on! ride on in majesty!"
   },
   {
-    "Number": 72,
-    "Tunes": [
-      "Bonn"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Rise, my soul, adore your Maker"
-  },
-  {
     "Number": 661,
     "Tunes": [
       "Arwelfa",
@@ -5895,6 +5867,14 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Rise with me \u2014 my soul in triumph"
+  },
+  {
+    "Number": 72,
+    "Tunes": [
+      "Bonn"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Rise, my soul, adore your Maker"
   },
   {
     "Number": 593,
@@ -5964,14 +5944,6 @@
     "Title": "Search me, O God! my actions try"
   },
   {
-    "Number": 212,
-    "Tunes": [
-      "Humility"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "See, amid the winter\u2019s snow"
-  },
-  {
     "Number": 279,
     "Tunes": [
       "Rectory Place"
@@ -5994,6 +5966,14 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "See how great a flame aspires"
+  },
+  {
+    "Number": 212,
+    "Tunes": [
+      "Humility"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "See, amid the winter\u2019s snow"
   },
   {
     "Number": 851,
@@ -6472,6 +6452,15 @@
     "Title": "The Lord is here! His promised word"
   },
   {
+    "Number": 54,
+    "Tunes": [
+      "Niagara"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "The Lord is King; lift up your voice",
+    "VideoLink": "https://www.emw.org.uk/2020/05/the-lord-is-king-lift-up-your-voice/"
+  },
+  {
     "Number": 628,
     "Tunes": [
       "Tarwathie",
@@ -6537,6 +6526,15 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "The price is paid"
+  },
+  {
+    "Number": 861,
+    "Tunes": [
+      "Rutherford (76.76.76.75)"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "The sands of time are sinking",
+    "VideoLink": "https://www.emw.org.uk/2020/05/the-sands-of-time-are-sinking/"
   },
   {
     "Number": 560,
@@ -6915,31 +6913,6 @@
     "Title": "Thy works, not mine, O Christ"
   },
   {
-    "Number": 499,
-    "Tunes": [
-      "Green Hill"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "\u2019Tis not by works of righteousness"
-  },
-  {
-    "Number": 498,
-    "Tunes": [
-      "Missionary"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "\u2019Tis not that I did choose Thee"
-  },
-  {
-    "Number": 186,
-    "Tunes": [
-      "Ar hyd y nos",
-      "(ii) Southgate"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "\u2019Tis the church triumphant singing"
-  },
-  {
     "Number": 450,
     "Tunes": [
       "Burford"
@@ -7311,14 +7284,6 @@
     "Title": "When morning gilds the skies"
   },
   {
-    "Number": 782,
-    "Tunes": [
-      "Bays of Harris"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "When, O my Jesus, when shall I"
-  },
-  {
     "Number": 190,
     "Tunes": [
       "Wiltshire"
@@ -7360,12 +7325,29 @@
     "Title": "When the trumpet of the Lord shall sound"
   },
   {
+    "Number": 862,
+    "Tunes": [
+      "Wells"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "When this passing world is done",
+    "VideoLink": "https://www.emw.org.uk/2020/06/when-this-passing-world-is-done/"
+  },
+  {
     "Number": 794,
     "Tunes": [
       "Trust and Obey"
     ],
     "Type": "EMW Christian Hymns",
     "Title": "When we walk with the Lord"
+  },
+  {
+    "Number": 782,
+    "Tunes": [
+      "Bays of Harris"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "When, O my Jesus, when shall I"
   },
   {
     "Number": 300,
@@ -7390,6 +7372,24 @@
     ],
     "Type": "EMW Christian Hymns",
     "Title": "Who are these in bright array"
+  },
+  {
+    "Number": 666,
+    "Tunes": [
+      "All that thrills my soul"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Who can cheer the heart like Jesus",
+    "VideoLink": "https://www.emw.org.uk/2020/06/who-can-cheer-the-heart-like-jesus/"
+  },
+  {
+    "Number": 226,
+    "Tunes": [
+      "Wondrous Story"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Who is He in yonder stall",
+    "VideoLink": "https://www.emw.org.uk/2020/06/who-is-he-in-yonder-stall/"
   },
   {
     "Number": 765,
@@ -7638,15 +7638,6 @@
     "Title": "You humble souls that seek the Lord"
   },
   {
-    "Number": 811,
-    "Tunes": [
-      "Llef",
-      "(ii) Calm"
-    ],
-    "Type": "EMW Christian Hymns",
-    "Title": "Your promise, Lord, is perfect peace"
-  },
-  {
     "Number": 193,
     "Tunes": [
       "You\u2019re the Word"
@@ -7656,154 +7647,211 @@
     "VideoLink": "https://www.emw.org.uk/2020/05/youre-the-word-of-god/"
   },
   {
+    "Number": 811,
+    "Tunes": [
+      "Llef",
+      "(ii) Calm"
+    ],
+    "Type": "EMW Christian Hymns",
+    "Title": "Your promise, Lord, is perfect peace"
+  },
+  {
+    "Type": "EMWHymn",
     "Title": "All hail the power of Jesus\u0026#8217; Name",
     "VideoLink": "https://www.emw.org.uk/2020/05/all-hail-the-power-of-jesus-name/"
   },
   {
+    "Type": "EMWHymn",
     "Title": "Amazing Grace (My Chains are gone)",
     "VideoLink": "https://www.emw.org.uk/2020/06/amazing-grace-my-chains-are-gone/"
   },
   {
+    "Type": "EMWHymn",
     "Title": "Behold our God",
     "VideoLink": "https://www.emw.org.uk/2020/06/behold-our-god-who-has-held-the-oceans-in-his-hands/"
   },
   {
+    "Type": "EMWHymn",
     "Title": "Bless the Lord",
     "VideoLink": "https://www.emw.org.uk/2020/05/bless-the-lord/"
   },
   {
+    "Type": "EMWHymn",
     "Title": "Blessed Assurance",
     "VideoLink": "https://www.emw.org.uk/2020/06/blessed-assurance/"
   },
   {
+    "Type": "EMWHymn",
     "Title": "Blessed be your name",
     "VideoLink": "https://www.emw.org.uk/2020/06/blessed-be-your-name/"
   },
   {
+    "Type": "EMWHymn",
     "Title": "Breathe on us breath of God",
     "VideoLink": "https://www.emw.org.uk/2020/06/breathe-on-us-breath-of-god/"
   },
   {
+    "Type": "EMWHymn",
     "Title": "By Faith",
     "VideoLink": "https://www.emw.org.uk/2020/05/by-faith-we-see-the-hand-of-god/"
   },
   {
+    "Type": "EMWHymn",
     "Title": "Come people of the risen King",
     "VideoLink": "https://www.emw.org.uk/2020/06/come-people-of-the-risen-king/"
   },
   {
-    "Title": "God sent His Son",
-    "VideoLink": "https://www.emw.org.uk/2020/06/god-sent-his-son-because-he-lives/"
-  },
-  {
-    "Title": "Hail thou once despised Jesus",
-    "VideoLink": "https://www.emw.org.uk/2020/06/hail-thou-once-despised-jesus/"
-  },
-  {
-    "Title": "He will hold me fast",
-    "VideoLink": "https://www.emw.org.uk/2020/05/he-will-hold-me-fast/"
-  },
-  {
-    "Title": "His Mercy is More",
-    "VideoLink": "https://www.emw.org.uk/2020/05/his-mercy-is-more/"
-  },
-  {
-    "Title": "I will Glory in my redeemer",
-    "VideoLink": "https://www.emw.org.uk/2020/06/i-will-glory-in-my-redeemer/"
-  },
-  {
-    "Title": "Jesus is Lord",
-    "VideoLink": "https://www.emw.org.uk/2020/06/jesus-is-lord-the-cry-that-echoes/"
-  },
-  {
-    "Title": "Jesus paid it all",
-    "VideoLink": "https://www.emw.org.uk/2020/05/jesus-paid-it-all/"
-  },
-  {
-    "Title": "King of Kings",
-    "VideoLink": "https://www.emw.org.uk/2020/06/king-of-kings/"
-  },
-  {
-    "Title": "Light of the world",
-    "VideoLink": "https://www.emw.org.uk/2020/05/light-of-the-world/"
-  },
-  {
-    "Title": "Mighty Christ from time eternal",
-    "VideoLink": "https://www.emw.org.uk/2020/05/mighty-christ-from-time-eternal/"
-  },
-  {
-    "Title": "My heart is filled with thankfulness",
-    "VideoLink": "https://www.emw.org.uk/2020/05/my-heart-is-filled-with-thankfulness/"
-  },
-  {
-    "Title": "Nothing but the blood of Jesus",
-    "VideoLink": "https://www.emw.org.uk/2020/06/nothing-but-the-blood-of-jesus/"
-  },
-  {
-    "Title": "O Church arise",
-    "VideoLink": "https://www.emw.org.uk/2020/06/o-church-arise/"
-  },
-  {
-    "Title": "O Lord my Rock and my Redeemer",
-    "VideoLink": "https://www.emw.org.uk/2020/05/o-lord-my-rock-and-my-redeemer/"
-  },
-  {
-    "Title": "O Praise the name",
-    "VideoLink": "https://www.emw.org.uk/2020/06/o-praise-the-name-i-cast-my-mind-to-calvary/"
-  },
-  {
-    "Title": "Oh to see the Dawn",
-    "VideoLink": "https://www.emw.org.uk/2020/06/oh-to-see-the-dawn/"
-  },
-  {
-    "Title": "One day",
-    "VideoLink": "https://www.emw.org.uk/2020/06/one-day-when-we-all-get-to-heaven/"
-  },
-  {
-    "Title": "Only a Holy God",
-    "VideoLink": "https://www.emw.org.uk/2020/06/only-a-holy-god/"
-  },
-  {
+    "Type": "EMWHymn",
     "Title": "Doxology \u0026#8211; Praise God from whom all blessings flow",
     "VideoLink": "https://www.emw.org.uk/2020/06/doxology-praise-god-from-whom-all-blessings-flow/"
   },
   {
+    "Type": "EMWHymn",
+    "Title": "God sent His Son",
+    "VideoLink": "https://www.emw.org.uk/2020/06/god-sent-his-son-because-he-lives/"
+  },
+  {
+    "Type": "EMWHymn",
+    "Title": "Hail thou once despised Jesus",
+    "VideoLink": "https://www.emw.org.uk/2020/06/hail-thou-once-despised-jesus/"
+  },
+  {
+    "Type": "EMWHymn",
+    "Title": "He will hold me fast",
+    "VideoLink": "https://www.emw.org.uk/2020/05/he-will-hold-me-fast/"
+  },
+  {
+    "Type": "EMWHymn",
+    "Title": "His Mercy is More",
+    "VideoLink": "https://www.emw.org.uk/2020/05/his-mercy-is-more/"
+  },
+  {
+    "Type": "EMWHymn",
+    "Title": "I will Glory in my redeemer",
+    "VideoLink": "https://www.emw.org.uk/2020/06/i-will-glory-in-my-redeemer/"
+  },
+  {
+    "Type": "EMWHymn",
+    "Title": "Jesus is Lord",
+    "VideoLink": "https://www.emw.org.uk/2020/06/jesus-is-lord-the-cry-that-echoes/"
+  },
+  {
+    "Type": "EMWHymn",
+    "Title": "Jesus paid it all",
+    "VideoLink": "https://www.emw.org.uk/2020/05/jesus-paid-it-all/"
+  },
+  {
+    "Type": "EMWHymn",
+    "Title": "King of Kings",
+    "VideoLink": "https://www.emw.org.uk/2020/06/king-of-kings/"
+  },
+  {
+    "Type": "EMWHymn",
+    "Title": "Light of the world",
+    "VideoLink": "https://www.emw.org.uk/2020/05/light-of-the-world/"
+  },
+  {
+    "Type": "EMWHymn",
+    "Title": "Mighty Christ from time eternal",
+    "VideoLink": "https://www.emw.org.uk/2020/05/mighty-christ-from-time-eternal/"
+  },
+  {
+    "Type": "EMWHymn",
+    "Title": "My heart is filled with thankfulness",
+    "VideoLink": "https://www.emw.org.uk/2020/05/my-heart-is-filled-with-thankfulness/"
+  },
+  {
+    "Type": "EMWHymn",
+    "Title": "My hope is built on nothing less",
+    "VideoLink": "https://www.emw.org.uk/2020/06/my-hope-is-built-on-nothing-less-cornerstone/"
+  },
+  {
+    "Type": "EMWHymn",
+    "Title": "Nothing but the blood of Jesus",
+    "VideoLink": "https://www.emw.org.uk/2020/06/nothing-but-the-blood-of-jesus/"
+  },
+  {
+    "Type": "EMWHymn",
+    "Title": "O Church arise",
+    "VideoLink": "https://www.emw.org.uk/2020/06/o-church-arise/"
+  },
+  {
+    "Type": "EMWHymn",
+    "Title": "O Lord my Rock and my Redeemer",
+    "VideoLink": "https://www.emw.org.uk/2020/05/o-lord-my-rock-and-my-redeemer/"
+  },
+  {
+    "Type": "EMWHymn",
+    "Title": "O Praise the name",
+    "VideoLink": "https://www.emw.org.uk/2020/06/o-praise-the-name-i-cast-my-mind-to-calvary/"
+  },
+  {
+    "Type": "EMWHymn",
+    "Title": "Oh to see the Dawn",
+    "VideoLink": "https://www.emw.org.uk/2020/06/oh-to-see-the-dawn/"
+  },
+  {
+    "Type": "EMWHymn",
+    "Title": "One day",
+    "VideoLink": "https://www.emw.org.uk/2020/06/one-day-when-we-all-get-to-heaven/"
+  },
+  {
+    "Type": "EMWHymn",
+    "Title": "Only a Holy God",
+    "VideoLink": "https://www.emw.org.uk/2020/06/only-a-holy-god/"
+  },
+  {
+    "Type": "EMWHymn",
     "Title": "See what a morning",
     "VideoLink": "https://www.emw.org.uk/2020/06/see-what-a-morning/"
   },
   {
+    "Type": "EMWHymn",
     "Title": "Speak O Lord",
     "VideoLink": "https://www.emw.org.uk/2020/05/speak-o-lord/"
   },
   {
+    "Type": "EMWHymn",
     "Title": "Tell me the old old story",
     "VideoLink": "https://www.emw.org.uk/2020/06/tell-me-the-old-old-story/"
   },
   {
+    "Type": "EMWHymn",
+    "Title": "The church\u0026#8217;s one foundation",
+    "VideoLink": "https://www.emw.org.uk/2020/06/the-churchs-one-foundation/"
+  },
+  {
+    "Type": "EMWHymn",
     "Title": "The Splendour of the King",
     "VideoLink": "https://www.emw.org.uk/2020/06/the-splendour-of-the-king/"
   },
   {
+    "Type": "EMWHymn",
     "Title": "There is a higher throne",
     "VideoLink": "https://www.emw.org.uk/2020/05/there-is-a-higher-throne/"
   },
   {
+    "Type": "EMWHymn",
     "Title": "There is a hope that burns within my heart",
     "VideoLink": "https://www.emw.org.uk/2020/06/there-is-a-hope-that-burns-within-my-heart/"
   },
   {
+    "Type": "EMWHymn",
     "Title": "What a faithful God",
     "VideoLink": "https://www.emw.org.uk/2020/06/what-a-faithful-god/"
   },
   {
+    "Type": "EMWHymn",
     "Title": "Worthy O Lamb of God",
     "VideoLink": "https://www.emw.org.uk/2020/05/worthy-o-lamb-of-god/"
   },
   {
+    "Type": "EMWHymn",
     "Title": "Yet not I",
     "VideoLink": "https://www.emw.org.uk/2020/06/yet-not-i/"
   },
   {
+    "Type": "EMWHymn",
     "Title": "You alone can rescue",
     "VideoLink": "https://www.emw.org.uk/2020/06/you-alone-can-rescue/"
   }
