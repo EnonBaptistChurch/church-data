@@ -15,6 +15,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/420745618/a2c0ed9584",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Tuesday-PM-4.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -196,7 +203,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 19,
     "Title": "Abide with me: fast falls the eventide",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 529,
@@ -206,7 +221,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 20,
     "Title": "Above the voices of the world around me",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 429,
@@ -305,6 +328,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/427722630/834dfe57a0",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Thursday-PM-3-1.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -362,6 +392,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/425126291/35ed3251d7",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/18-Track-18.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -481,6 +518,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/427418231/56ba09490f",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Monday-PM-3.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -669,7 +713,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 63,
     "Title": "As the deer pants for the water",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 908,
@@ -736,7 +788,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 69,
     "Title": "At the cross of Jesus",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 304,
@@ -754,6 +814,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/427724043/b1c5c494ac",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Wednesday-AM-3-1.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -856,7 +923,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 81,
     "Title": "Be still and know that I am God",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 790,
@@ -884,7 +959,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 83,
     "Title": "Be Thou my vision, O Lord of my heart",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 2,
@@ -912,6 +995,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/418054239/3c82678c45",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Tuesday-AM-1.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -941,7 +1031,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 88,
     "Title": "Begone, unbelief",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 364,
@@ -1034,7 +1132,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 98,
     "Title": "Beneath the cross of Jesus",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 432,
@@ -1062,7 +1168,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 101,
     "Title": "Blessèd assurance, Jesus is mine",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 575,
@@ -1136,7 +1250,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 109,
     "Title": "Blest be the tie that binds",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 670,
@@ -1455,6 +1577,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/423573140/f138053651",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Wednesday-PM-3-1.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -1752,6 +1881,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/418428107/0445029630",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Thursday-PM-3.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -1774,7 +1910,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 172,
     "Title": "Come, we that love the Lord",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 881,
@@ -1902,7 +2046,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 184,
     "Title": "Dear Saviour, Thou art mine",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 639,
@@ -2000,6 +2152,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/425837934/9f9a5ee2ce",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Friday-PM-4-1.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -2066,7 +2225,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 201,
     "Title": "Father of mercies, in Your Word",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 728,
@@ -2085,7 +2252,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 203,
     "Title": "Father, ’twas Thy love that knew us",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 774,
@@ -2130,7 +2305,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 208,
     "Title": "Fight the good fight with all thy might",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 816,
@@ -2178,7 +2361,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 213,
     "Title": "For ever with the Lord!",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 435,
@@ -2234,7 +2425,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 219,
     "Title": "Forgive our sins as we forgive",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 818,
@@ -2262,7 +2461,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 222,
     "Title": "From a life of weariness",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 9,
@@ -2281,7 +2488,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 224,
     "Title": "From deep distress I cry to Thee",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 408,
@@ -2300,7 +2515,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 226,
     "Title": "From heaven You came, helpless babe",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 125,
@@ -2524,7 +2747,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 249,
     "Title": "Go forth and tell! O Church of God, awake!",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 463,
@@ -2717,7 +2948,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 270,
     "Title": "Grace, ’tis a charming sound",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 335,
@@ -2802,6 +3041,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/425835024/2a18318d54",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Friday-PM-2.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -2820,6 +3066,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/427061592/ea8962ab1e",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Thursday-AM-2.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -2904,7 +3157,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 285,
     "Title": "Hail to the Lord’s anointed",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 151,
@@ -3077,7 +3338,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 302,
     "Title": "Have you heard the voice of Jesus",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 108,
@@ -3116,7 +3385,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 306,
     "Title": "He giveth more grace",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 918,
@@ -3376,6 +3653,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/420988305/08366d40a7",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Monday-PM-2.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -3542,6 +3826,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/420987348/832ec6c8e0",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Tuesday-PM-3.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -3562,7 +3853,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 352,
     "Title": "How vast the benefits divine",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 684,
@@ -3573,7 +3872,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 353,
     "Title": "How vast the treasure we possess!",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 896,
@@ -3778,7 +4085,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 372,
     "Title": "I know that my Redeemer lives",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 616,
@@ -3936,7 +4251,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 388,
     "Title": "I sing the almighty power of God",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 519,
@@ -3963,6 +4286,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/418152345/2ad7afec8a",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Thursday-AM-1.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -4010,7 +4340,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 395,
     "Title": "I will sing of my Redeemer",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 707,
@@ -4020,7 +4358,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 396,
     "Title": "I will sing the wondrous story",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 844,
@@ -4131,6 +4477,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/420747564/a440a29be2",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Tuesday-PM-1.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -4179,7 +4532,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 410,
     "Title": "In heavenly love abiding",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 316,
@@ -4207,7 +4568,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 413,
     "Title": "In memory of the Saviour’s love",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 927,
@@ -4226,7 +4595,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 415,
     "Title": "In tenderness He sought me",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 751,
@@ -4301,7 +4678,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 423,
     "Title": "It passes knowledge, that dear love of Thine",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 855,
@@ -4366,7 +4751,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 430,
     "Title": "Jesus is King and I will extol Him",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 160,
@@ -4485,7 +4878,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 443,
     "Title": "Jesus, I am resting, resting",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 820,
@@ -4549,7 +4950,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 450,
     "Title": "Jesus, Lord, we look to Thee",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 521,
@@ -4814,6 +5223,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/421059724/6bd4b8d700",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Sunday-PM-1.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -4976,7 +5392,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 494,
     "Title": "Let us love, and sing, and wonder",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 472,
@@ -5093,6 +5517,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/426291221/b9c9e5b020",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Sunday-PM-4.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -5168,7 +5599,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 513,
     "Title": "Lord of the church, we humbly pray",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 712,
@@ -5280,7 +5719,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 525,
     "Title": "Lord, speak to me, that I may speak",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 416,
@@ -5327,7 +5774,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 529,
     "Title": "Loved with everlasting love",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 276,
@@ -5364,7 +5819,16 @@
     ],
     "Type": "EMW Christian Hymns",
     "HymnId": 533,
-    "Title": "Man of sorrows! what a name"
+    "Title": "Man of sorrows! what a name",
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 825,
@@ -5401,7 +5865,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 537,
     "Title": "Meekness and majesty",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 417,
@@ -5591,6 +6063,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/428427372/8a843c02b7",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Tuesday-PM-1.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -5695,7 +6174,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 566,
     "Title": "Name of all majesty",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 175,
@@ -5816,7 +6303,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 578,
     "Title": "Not what these hands have done",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 445,
@@ -5951,6 +6446,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/423223087/a52f430e96",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Tuesday-AM-3.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -6057,6 +6559,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/427735466/6ef806c378",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Monday-PM-2.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -6095,6 +6604,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/425547444/445dfc2d50",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Friday-PM-1.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -6106,7 +6622,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 604,
     "Title": "O God beyond all praising",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 781,
@@ -6146,7 +6670,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 608,
     "Title": "O God, Thou art my God alone",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 876,
@@ -6156,7 +6688,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 609,
     "Title": "O God, whose all-sustaining hand",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 525,
@@ -6241,7 +6781,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 618,
     "Title": "O Jesus, I have promised",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 174,
@@ -6700,7 +7248,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 663,
     "Title": "O worship the King",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 26,
@@ -6788,7 +7344,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 671,
     "Title": "One day when heaven was filled with His praises",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 180,
@@ -6798,7 +7362,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 672,
     "Title": "One there is, above all others",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 503,
@@ -6854,7 +7426,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 677,
     "Title": "Our blest Redeemer, ere He breathed",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 890,
@@ -7101,6 +7681,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/423580291/caaa945a8a",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Monday-PM-1.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -7140,7 +7727,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 706,
     "Title": "Rejoice, the Lord is King!",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 320,
@@ -7150,7 +7745,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 707,
     "Title": "Rejoicing in hope",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 402,
@@ -7224,6 +7827,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/421144363/7f7e30a20d",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Thursday-AM-3.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -7365,7 +7975,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 728,
     "Title": "Seek ye first the kingdom of God",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 420,
@@ -7533,6 +8151,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/425838241/3b2d093aa3",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Sunday-AM-5.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -7670,7 +8295,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 758,
     "Title": "Take my life, and let it be",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 742,
@@ -7680,7 +8313,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 759,
     "Title": "Take time to be holy, speak oft with your Lord",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 597,
@@ -7709,7 +8350,19 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 762,
     "Title": "Teach me Your way, O Lord",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true,
+        "Warning": {
+          "Message": "Old English, slight word changes from hymn book.",
+          "Level": 1
+        }
+      }
+    ]
   },
   {
     "Number": 829,
@@ -7736,6 +8389,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/429542077/fee57ac8a8",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Sunday-AM-1.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -7858,7 +8518,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 775,
     "Title": "The heavens declare Thy glory, Lord",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 848,
@@ -7879,7 +8547,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 777,
     "Title": "The King of love my Shepherd is",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 322,
@@ -7942,6 +8618,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/423226635/b6f2d1e41b",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Tuesday-AM-1-1.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -7991,7 +8674,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 788,
     "Title": "The Lord’s my Shepherd, I’ll not want: He makes me lie",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 505,
@@ -8036,6 +8727,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/423229759/f9db92276e",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Tuesday-PM-4-1.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -8137,6 +8835,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/418055224/064fbce4ad",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Thereisafountsong.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -8158,7 +8863,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 804,
     "Title": "There is a land of pure delight",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 181,
@@ -8266,6 +8979,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/423581563/ca184792f5",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Wednesday-AM-3.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -8297,7 +9017,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 818,
     "Title": "Thou art the everlasting Word",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 183,
@@ -8600,7 +9328,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 850,
     "Title": "Today Thy mercy calls us",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 39,
@@ -8620,7 +9356,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 852,
     "Title": "Unto the hills around do I lift up",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 37,
@@ -8722,7 +9466,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 863,
     "Title": "We love the place, O God",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 880,
@@ -8766,6 +9518,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/425841917/4a866b9106",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Friday-PM-3-1.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -8815,7 +9574,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 872,
     "Title": "What a friend we have in Jesus",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 224,
@@ -8960,6 +9727,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/421147405/a23aa67f58",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/When-Peace-like-a-River.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -9101,7 +9875,19 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 897,
     "Title": "Who is on the Lord’s side?",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true,
+        "Warning": {
+          "Message": "Praise 854 - Frances R Havergal (1836-79)",
+          "Level": 0
+        }
+      }
+    ]
   },
   {
     "Number": 227,
@@ -9341,7 +10127,15 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 923,
     "Title": "Yield not to temptation, for yielding is sin",
-    "HymnMedia": []
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 942,
@@ -9385,6 +10179,17 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/418027026/868d80277a",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Youretheword.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true,
+        "Warning": {
+          "Message": "Praise 1228 - Stuart Townend and Keith Getty",
+          "Level": 0
+        }
       }
     ]
   },
@@ -9397,6 +10202,24 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 928,
     "Title": "Your promise, Lord, is perfect peace"
+  },
+  {
+    "Type": "General",
+    "HymnId": 980,
+    "Title": "All I have is Christ",
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true,
+        "Warning": {
+          "Message": "Praise 1307 - Jordan Kauflin",
+          "Level": 0
+        }
+      }
+    ]
   },
   {
     "Type": "General",
@@ -9440,6 +10263,35 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/425127670/a46758d45f",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/14-Track-14.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true,
+        "Warning": {
+          "Message": "Praise 1192 - Jonathan Baird, Meghan Baird, Ryan Baird and Stephen Altrogge",
+          "Level": 0
+        }
+      }
+    ]
+  },
+  {
+    "Type": "General",
+    "HymnId": 973,
+    "Title": "Behold the lamb who bears our sins away",
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true,
+        "Warning": {
+          "Message": "Praise 1118 - Keith and Kristyn Getty and Stuart Townend",
+          "Level": 0
+        }
       }
     ]
   },
@@ -9454,6 +10306,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/418368739/09b1bb4f18",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Monday-PM-1.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -9496,6 +10355,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/418429014/37a8d21bb0",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Thursday-AM-4.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -9514,6 +10380,20 @@
     ],
     "Tags": [
       "Christmas"
+    ]
+  },
+  {
+    "Type": "General",
+    "HymnId": 974,
+    "Title": "Christ be in my waking",
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
     ]
   },
   {
@@ -9544,6 +10424,31 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/423577320/4dfba80c4a",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Wednesday-AM-1.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
+  },
+  {
+    "Type": "General",
+    "HymnId": 975,
+    "Title": "Come praise and Glorify our God",
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true,
+        "Warning": {
+          "Message": "Praise 1234 - Bob Kauflin and Tim Chester",
+          "Level": 0
+        }
       }
     ]
   },
@@ -9551,6 +10456,59 @@
     "Type": "YoutubeHymn",
     "HymnId": 939,
     "Title": "Dear Refuge of my weary soul"
+  },
+  {
+    "Type": "General",
+    "HymnId": 976,
+    "Title": "For God so loved the world",
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ],
+    "Tags": [
+      "Children"
+    ]
+  },
+  {
+    "Type": "General",
+    "HymnId": 977,
+    "Title": "From the squalor",
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true,
+        "Warning": {
+          "Message": "Praise 1279 - Stuart Townend",
+          "Level": 0
+        }
+      }
+    ]
+  },
+  {
+    "Type": "General",
+    "HymnId": 978,
+    "Title": "God of the Ages",
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ],
+    "Warning": {
+      "Message": "Margaret Clarkson",
+      "Level": 0
+    }
   },
   {
     "Type": "General",
@@ -9563,7 +10521,38 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/423219963/ab37dd243e",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Sunday-PM-3.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
+    ]
+  },
+  {
+    "Type": "General",
+    "HymnId": 979,
+    "Title": "Greater Love (that He laid down his life)",
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ],
+    "Tags": [
+      "Children"
     ]
   },
   {
@@ -9577,6 +10566,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/418065387/f0223cf0a8",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/He-will-hold-me-fast.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -9595,6 +10591,13 @@
           "Message": "Dodgy start to the second verse of the hymn.",
           "Level": 2
         }
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ],
     "Warning": {
@@ -9615,6 +10618,24 @@
         "HaveAudioVersionLocally": false
       }
     ]
+  },
+  {
+    "Type": "General",
+    "HymnId": 981,
+    "Title": "In awe and wonder",
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ],
+    "Warning": {
+      "Message": "Praise 166 - Michael Saward",
+      "Level": 0
+    }
   },
   {
     "Type": "General",
@@ -9677,6 +10698,24 @@
   },
   {
     "Type": "General",
+    "HymnId": 982,
+    "Title": "Let love be found among us",
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ],
+    "Warning": {
+      "Message": "Praise 586 - Martin Ernest Leckebusch",
+      "Level": 0
+    }
+  },
+  {
+    "Type": "General",
     "HymnId": 948,
     "Title": "Light of the world",
     "HymnMedia": [
@@ -9731,6 +10770,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/421140543/f73c0b3f6e",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Me-heart-is-fi-song.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -9750,6 +10796,24 @@
   },
   {
     "Type": "General",
+    "HymnId": 983,
+    "Title": "My worth is not in what I own HFS",
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ],
+    "Warning": {
+      "Message": "Not a great recording. Couple recording.",
+      "Level": 1
+    }
+  },
+  {
+    "Type": "General",
     "HymnId": 953,
     "Title": "Nothing but the blood of Jesus",
     "HymnMedia": [
@@ -9764,6 +10828,24 @@
   },
   {
     "Type": "General",
+    "HymnId": 984,
+    "Title": "O Christ the same",
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ],
+    "Warning": {
+      "Message": "Praise 784 - Timothy Dudley Smith",
+      "Level": 0
+    }
+  },
+  {
+    "Type": "General",
     "HymnId": 954,
     "Title": "O Church arise",
     "HymnMedia": [
@@ -9773,6 +10855,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/425134332/0a899a03d3",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/06-Track-06.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -9849,6 +10938,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/428427143/71a34a3e00",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Thursday-AM-4.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -9868,6 +10964,24 @@
   },
   {
     "Type": "General",
+    "HymnId": 985,
+    "Title": "One with Jesus, loved and cherished",
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ],
+    "Warning": {
+      "Message": "Praise 719 - Jim Sayers",
+      "Level": 0
+    }
+  },
+  {
+    "Type": "General",
     "HymnId": 961,
     "Title": "Only a Holy God",
     "HymnMedia": [
@@ -9879,6 +10993,24 @@
         "HaveAudioVersionLocally": false
       }
     ]
+  },
+  {
+    "Type": "General",
+    "HymnId": 986,
+    "Title": "Purify my heart",
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ],
+    "Warning": {
+      "Message": "Praise 814 - Brian Doerksen",
+      "Level": 0
+    }
   },
   {
     "Type": "General",
@@ -9896,6 +11028,42 @@
   },
   {
     "Type": "General",
+    "HymnId": 987,
+    "Title": "Sovereign Lord, we sing your glory",
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ],
+    "Warning": {
+      "Message": "Praise 543 - Peter Ninnis",
+      "Level": 0
+    }
+  },
+  {
+    "Type": "General",
+    "HymnId": 988,
+    "Title": "Sovereign Ruler of the skies",
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ],
+    "Warning": {
+      "Message": "Praise 262 - John Ryland (1753-1825)",
+      "Level": 0
+    }
+  },
+  {
+    "Type": "General",
     "HymnId": 963,
     "Title": "Speak O Lord",
     "HymnMedia": [
@@ -9905,6 +11073,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/423225008/e137948fda",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Tuesday-AM-2-1.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -9941,6 +11116,24 @@
   },
   {
     "Type": "General",
+    "HymnId": 989,
+    "Title": "The perfect wisdom of our God",
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ],
+    "Warning": {
+      "Message": "Praise 1302 - Keith Getty, Stuart Townend",
+      "Level": 0
+    }
+  },
+  {
+    "Type": "General",
     "HymnId": 966,
     "Title": "The Splendour of the King",
     "HymnMedia": [
@@ -9964,6 +11157,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/418055224/064fbce4ad",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Wednesday-PM-2.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -9978,8 +11178,51 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/426299069/882ebaa11d",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Thursday-PM-2-1.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
+  },
+  {
+    "Type": "General",
+    "HymnId": 990,
+    "Title": "There is an everlasting kindness",
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ],
+    "Warning": {
+      "Message": "Praise 1156 - Stuart Townend, Keith & Kristyn Getty",
+      "Level": 0
+    }
+  },
+  {
+    "Type": "General",
+    "HymnId": 991,
+    "Title": "We are one all in mission",
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ],
+    "Warning": {
+      "Message": "Praise 630 - Rusty Edwards",
+      "Level": 0
+    }
   },
   {
     "Type": "General",
@@ -9992,7 +11235,88 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/425552975/2fa02ab510",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Friday-AM-1.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
+    ]
+  },
+  {
+    "Type": "General",
+    "HymnId": 992,
+    "Title": "What is our hope in life & death",
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ],
+    "Warning": {
+      "Message": "Not good Recording. Couple recording",
+      "Level": 1
+    }
+  },
+  {
+    "Type": "General",
+    "HymnId": 993,
+    "Title": "When I think about the cross",
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ],
+    "Tags": [
+      "Children"
+    ]
+  },
+  {
+    "Type": "General",
+    "HymnId": 994,
+    "Title": "When Jesus led his chosen three",
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true,
+        "Warning": {
+          "Message": "Praise 392 - Christopher Idle",
+          "Level": 0
+        }
+      }
+    ]
+  },
+  {
+    "Type": "General",
+    "HymnId": 995,
+    "Title": "Within the busy rush of life",
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true,
+        "Warning": {
+          "Message": "Praise 770 - Martin E Leckebusch",
+          "Level": 0
+        }
+      }
+    ],
+    "Tags": [
+      "Children"
     ]
   },
   {
@@ -10020,6 +11344,13 @@
         "VideoSourceUrl": "https://vimeo.com/emw/download/420991644/b685a557ff",
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Tuesday-PM-2.mp3",
         "HaveAudioVersionLocally": false
+      },
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
       }
     ]
   },
@@ -10035,6 +11366,27 @@
         "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/09-Track-09.mp3",
         "HaveAudioVersionLocally": false
       }
+    ]
+  },
+  {
+    "Type": "General",
+    "HymnId": 996,
+    "Title": "You O Lord has searched",
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ],
+    "Warning": {
+      "Message": "Praise 139 - David G Preston",
+      "Level": 0
+    },
+    "Tags": [
+      "Children"
     ]
   }
 ]
