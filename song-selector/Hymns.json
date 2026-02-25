@@ -1309,11 +1309,7 @@
           "Level": 1
         }
       }
-    ],
-    "Warning": {
-      "Message": "Slight change in words, Me to changed to us.",
-      "Level": 1
-    }
+    ]
   },
   {
     "Number": 145,
@@ -10335,13 +10331,13 @@
         "MediaSourceUrl": "",
         "VideoSourceUrl": "",
         "AudioSourceUrl": "",
-        "HaveAudioVersionLocally": true,
-        "Warning": {
-          "Message": "Praise 1228 - Stuart Townend and Keith Getty",
-          "Level": 0
-        }
+        "HaveAudioVersionLocally": true
       }
-    ]
+    ],
+    "Warning": {
+      "Message": "Praise 1228 - Stuart Townend and Keith Getty",
+      "Level": 0
+    }
   },
   {
     "Number": 811,
@@ -10363,13 +10359,13 @@
         "MediaSourceUrl": "",
         "VideoSourceUrl": "",
         "AudioSourceUrl": "",
-        "HaveAudioVersionLocally": true,
-        "Warning": {
-          "Message": "Praise 1307 - Jordan Kauflin",
-          "Level": 0
-        }
+        "HaveAudioVersionLocally": true
       }
-    ]
+    ],
+    "Warning": {
+      "Message": "Praise 1307 - Jordan Kauflin",
+      "Level": 0
+    }
   },
   {
     "Type": "General",
@@ -10419,13 +10415,13 @@
         "MediaSourceUrl": "",
         "VideoSourceUrl": "",
         "AudioSourceUrl": "",
-        "HaveAudioVersionLocally": true,
-        "Warning": {
-          "Message": "Praise 1192 - Jonathan Baird, Meghan Baird, Ryan Baird and Stephen Altrogge",
-          "Level": 0
-        }
+        "HaveAudioVersionLocally": true
       }
-    ]
+    ],
+    "Warning": {
+      "Message": "Praise 1192 - Jonathan Baird, Meghan Baird, Ryan Baird and Stephen Altrogge",
+      "Level": 0
+    }
   },
   {
     "Type": "General",
@@ -10437,13 +10433,13 @@
         "MediaSourceUrl": "",
         "VideoSourceUrl": "",
         "AudioSourceUrl": "",
-        "HaveAudioVersionLocally": true,
-        "Warning": {
-          "Message": "Praise 1118 - Keith and Kristyn Getty and Stuart Townend",
-          "Level": 0
-        }
+        "HaveAudioVersionLocally": true
       }
-    ]
+    ],
+    "Warning": {
+      "Message": "Praise 1118 - Keith and Kristyn Getty and Stuart Townend",
+      "Level": 0
+    }
   },
   {
     "Type": "General",
@@ -10594,13 +10590,13 @@
         "MediaSourceUrl": "",
         "VideoSourceUrl": "",
         "AudioSourceUrl": "",
-        "HaveAudioVersionLocally": true,
-        "Warning": {
-          "Message": "Praise 1234 - Bob Kauflin and Tim Chester",
-          "Level": 0
-        }
+        "HaveAudioVersionLocally": true
       }
-    ]
+    ],
+    "Warning": {
+      "Message": "Praise 1234 - Bob Kauflin and Tim Chester",
+      "Level": 0
+    }
   },
   {
     "Type": "YoutubeHymn",
@@ -10634,13 +10630,13 @@
         "MediaSourceUrl": "",
         "VideoSourceUrl": "",
         "AudioSourceUrl": "",
-        "HaveAudioVersionLocally": true,
-        "Warning": {
-          "Message": "Praise 1279 - Stuart Townend",
-          "Level": 0
-        }
+        "HaveAudioVersionLocally": true
       }
-    ]
+    ],
+    "Warning": {
+      "Message": "Praise 1279 - Stuart Townend",
+      "Level": 0
+    }
   },
   {
     "Type": "General",
@@ -10933,20 +10929,21 @@
   {
     "Type": "General",
     "HymnId": 976,
-    "Title": "My worth is not in what I own HFS",
+    "Title": "My worth is not in what I own",
     "HymnMedia": [
       {
         "HymnMediaType": "Google Drive",
         "MediaSourceUrl": "",
         "VideoSourceUrl": "",
         "AudioSourceUrl": "",
-        "HaveAudioVersionLocally": true
+        "HaveAudioVersionLocally": true,
+        "Warning": {
+          "Message": "Not a great recording. Couple recording.",
+          "Level": 1
+        }
       }
-    ],
-    "Warning": {
-      "Message": "Not a great recording. Couple recording.",
-      "Level": 1
-    }
+    ]
+    
   },
   {
     "Type": "General",
@@ -11377,13 +11374,14 @@
         "MediaSourceUrl": "",
         "VideoSourceUrl": "",
         "AudioSourceUrl": "",
-        "HaveAudioVersionLocally": true
+        "HaveAudioVersionLocally": true,
+        "Warning": {
+          "Message": "Not good Recording. Couple recording",
+          "Level": 1
+        }
       }
-    ],
-    "Warning": {
-      "Message": "Not good Recording. Couple recording",
-      "Level": 1
-    }
+    ]
+    
   },
   {
     "Type": "General",
@@ -11412,13 +11410,13 @@
         "MediaSourceUrl": "",
         "VideoSourceUrl": "",
         "AudioSourceUrl": "",
-        "HaveAudioVersionLocally": true,
-        "Warning": {
-          "Message": "Praise 392 - Christopher Idle",
-          "Level": 0
-        }
+        "HaveAudioVersionLocally": true
       }
-    ]
+    ],
+    "Warning": {
+      "Message": "Praise 392 - Christopher Idle",
+      "Level": 0
+    }
   },
   {
     "Type": "General",
@@ -11430,13 +11428,13 @@
         "MediaSourceUrl": "",
         "VideoSourceUrl": "",
         "AudioSourceUrl": "",
-        "HaveAudioVersionLocally": true,
-        "Warning": {
-          "Message": "Praise 770 - Martin E Leckebusch",
-          "Level": 0
-        }
+        "HaveAudioVersionLocally": true
       }
     ],
+    "Warning": {
+      "Message": "Praise 770 - Martin E Leckebusch",
+      "Level": 0
+    },
     "Tags": [
       "Children"
     ]
