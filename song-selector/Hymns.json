@@ -2951,7 +2951,16 @@
     ],
     "Type": "EMW Christian Hymns",
     "HymnId": 272,
-    "Title": "God of the covenant, triune Jehovah"
+    "Title": "God of the covenant, triune Jehovah",
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   },
   {
     "Number": 49,
