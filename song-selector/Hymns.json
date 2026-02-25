@@ -9971,13 +9971,13 @@
         "MediaSourceUrl": "",
         "VideoSourceUrl": "",
         "AudioSourceUrl": "",
-        "HaveAudioVersionLocally": true,
-        "Warning": {
-          "Message": "Praise 854 - Frances R Havergal (1836-79)",
-          "Level": 0
-        }
+        "HaveAudioVersionLocally": true
       }
-    ]
+    ],
+    "Warning": {
+      "Message": "Praise 854 - Frances R Havergal (1836-79)",
+      "Level": 0
+    }
   },
   {
     "Number": 227,
@@ -10707,11 +10707,7 @@
         "AudioSourceUrl": "",
         "HaveAudioVersionLocally": true
       }
-    ],
-    "Warning": {
-      "Message": "Dodgy start to the second verse of the hymn.",
-      "Level": 2
-    }
+    ]
   },
   {
     "Type": "General",
