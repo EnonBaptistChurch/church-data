@@ -1921,6 +1921,25 @@
     ]
   },
   {
+    "Number": 539,
+    "Tunes": [
+      "Bryn Calfaria",
+      "(ii) Llwynbedw"
+    ],
+    "Type": "EMW Christian Hymns",
+    "HymnId": 0,
+    "Title": "Come, ye sinners, poor and wretched"
+  },
+  {
+    "Number": 540,
+    "Tunes": [
+      "Hyder"
+    ],
+    "Type": "EMW Christian Hymns",
+    "HymnId": 0,
+    "Title": "Come, ye souls by sin afflicted"
+  },
+  {
     "Number": 881,
     "Tunes": [
       "St George’s, Windsor"
@@ -2848,6 +2867,35 @@
     "Title": "God is my strong salvation"
   },
   {
+    "Number": 102,
+    "Tunes": [
+      "Seraph",
+      "(ii) Materna"
+    ],
+    "Type": "EMW Christian Hymns",
+    "HymnId": 0,
+    "Title": "God is our refuge and our strength"
+  },
+  {
+    "Number": 103,
+    "Tunes": [
+      "Dambusters’ March"
+    ],
+    "Type": "EMW Christian Hymns",
+    "HymnId": 0,
+    "Title": "God is our strength and refuge"
+  },
+  {
+    "Number": 104,
+    "Tunes": [
+      "Lasus",
+      "(ii) Arizona"
+    ],
+    "Type": "EMW Christian Hymns",
+    "HymnId": 0,
+    "Title": "God is the refuge of His saints"
+  },
+  {
     "Number": 572,
     "Tunes": [
       "Ellers"
@@ -2911,6 +2959,25 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 266,
     "Title": "God of salvation, we adore"
+  },
+  {
+    "Number": 48,
+    "Tunes": [
+      "Epiphany Hymn",
+      "(ii) Russia"
+    ],
+    "Type": "EMW Christian Hymns",
+    "HymnId": 0,
+    "Title": "God of the covenant, triune Jehovah"
+  },
+  {
+    "Number": 49,
+    "Tunes": [
+      "Quem pastores laudavere"
+    ],
+    "Type": "EMW Christian Hymns",
+    "HymnId": 0,
+    "Title": "God the Father, throned in splendour"
   },
   {
     "Number": 893,
@@ -3256,6 +3323,16 @@
     "Type": "EMW Christian Hymns",
     "HymnId": 294,
     "Title": "Hark, my soul! it is the Lord"
+  },
+  {
+    "Number": 205,
+    "Tunes": [
+      "St Saviour",
+      "(ii) Bristol"
+    ],
+    "Type": "EMW Christian Hymns",
+    "HymnId": 0,
+    "Title": "Hark, the glad sound! the Saviour comes"
   },
   {
     "Number": 206,
@@ -5885,6 +5962,34 @@
     "Title": "Mercy in our time of failure"
   },
   {
+    "Number": 168,
+    "Tunes": [
+      "Bryn Myrddin",
+      "(ii) Rheidol"
+    ],
+    "Type": "EMW Christian Hymns",
+    "HymnId": 0,
+    "Title": "Mighty Christ from time eternal",
+    "HymnMedia": [
+      {
+        "HymnMediaType": "EMW",
+        "MediaSourceUrl": "https://www.emw.org.uk/2020/05/mighty-christ-from-time-eternal/",
+        "VideoSourceUrl": "https://vimeo.com/emw/download/423235394/f95d255625",
+        "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Sunday-AM-2.mp3",
+        "HaveAudioVersionLocally": false
+      }
+    ]
+  },
+  {
+    "Number": 169,
+    "Tunes": [
+      "Bithynia"
+    ],
+    "Type": "EMW Christian Hymns",
+    "HymnId": 0,
+    "Title": "Mighty God, while angels bless You"
+  },
+  {
     "Number": 654,
     "Tunes": [
       "Moorside",
@@ -8374,6 +8479,33 @@
     "Title": "Tell all the world of Jesus"
   },
   {
+    "Number": 563,
+    "Tunes": [
+      "Tell me the old, old story"
+    ],
+    "Type": "EMW Christian Hymns",
+    "HymnId": 0,
+    "Title": "Tell me the old, old story",
+    "HymnMedia": [
+      {
+        "HymnMediaType": "EMW",
+        "MediaSourceUrl": "https://www.emw.org.uk/2020/06/tell-me-the-old-old-story/",
+        "VideoSourceUrl": "https://vimeo.com/emw/download/425569700/3b45da22da",
+        "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Thursday-PM-3.mp3",
+        "HaveAudioVersionLocally": false
+      }
+    ]
+  },
+  {
+    "Number": 562,
+    "Tunes": [
+      "Nasareth"
+    ],
+    "Type": "EMW Christian Hymns",
+    "HymnId": 0,
+    "Title": "Tell me, have you seen my Saviour?"
+  },
+  {
     "Number": 35,
     "Tunes": [
       "Woodlands",
@@ -10065,6 +10197,24 @@
     "Title": "Words of eternal life to me"
   },
   {
+    "Number": 939,
+    "Tunes": [
+      "Worthy is the Lamb"
+    ],
+    "Type": "EMW Christian Hymns",
+    "HymnId": 0,
+    "Title": "Worthy is the Lamb, seated on the throne"
+  },
+  {
+    "Number": 940,
+    "Tunes": [
+      "Wounded for me"
+    ],
+    "Type": "EMW Christian Hymns",
+    "HymnId": 0,
+    "Title": "Wounded for me, wounded for me"
+  },
+  {
     "Number": 293,
     "Tunes": [
       "St George’s, Edinburgh"
@@ -10747,20 +10897,6 @@
   },
   {
     "Type": "General",
-    "HymnId": 950,
-    "Title": "Mighty Christ from time eternal",
-    "HymnMedia": [
-      {
-        "HymnMediaType": "EMW",
-        "MediaSourceUrl": "https://www.emw.org.uk/2020/05/mighty-christ-from-time-eternal/",
-        "VideoSourceUrl": "https://vimeo.com/emw/download/423235394/f95d255625",
-        "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/05/Sunday-AM-2.mp3",
-        "HaveAudioVersionLocally": false
-      }
-    ]
-  },
-  {
-    "Type": "General",
     "HymnId": 951,
     "Title": "My heart is filled with thankfulness",
     "HymnMedia": [
@@ -11080,20 +11216,6 @@
         "VideoSourceUrl": "",
         "AudioSourceUrl": "",
         "HaveAudioVersionLocally": true
-      }
-    ]
-  },
-  {
-    "Type": "General",
-    "HymnId": 964,
-    "Title": "Tell me the old old story",
-    "HymnMedia": [
-      {
-        "HymnMediaType": "EMW",
-        "MediaSourceUrl": "https://www.emw.org.uk/2020/06/tell-me-the-old-old-story/",
-        "VideoSourceUrl": "https://vimeo.com/emw/download/425569700/3b45da22da",
-        "AudioSourceUrl": "https://www.emw.org.uk/wp-content/uploads/2020/06/Thursday-PM-3.mp3",
-        "HaveAudioVersionLocally": false
       }
     ]
   },
