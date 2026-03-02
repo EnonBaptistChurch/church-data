@@ -5657,16 +5657,8 @@
     ],
     "Type": "EMW Christian Hymns",
     "HymnId": 521,
-    "Title": "Lord of the church, we humbly pray",
-    "HymnMedia": [
-      {
-        "HymnMediaType": "Google Drive",
-        "MediaSourceUrl": "",
-        "VideoSourceUrl": "",
-        "AudioSourceUrl": "",
-        "HaveAudioVersionLocally": true
-      }
-    ]
+    "Title": "Lord of the church, we humbly pray"
+    
   },
   {
     "Number": 712,
@@ -11468,5 +11460,19 @@
       "Message": "Praise 139 - David G Preston",
       "Level": 0
     }
+  },
+  {
+    "Type": "Praise",
+    "HymnId": 1009,
+    "Title": "Lord of the Church, we pray for our renewing",
+    "HymnMedia": [
+      {
+        "HymnMediaType": "Google Drive",
+        "MediaSourceUrl": "",
+        "VideoSourceUrl": "",
+        "AudioSourceUrl": "",
+        "HaveAudioVersionLocally": true
+      }
+    ]
   }
 ]
